@@ -254,6 +254,50 @@ body {
 .term-x { cursor: pointer; width: 36px; height: 36px; border: 0; border-radius: 50%; background: transparent; color: inherit; font-size: 1.3rem; line-height: 1; }
 .term-x:hover { background: rgba(0, 0, 0, 0.12); }
 
+/* ---------- pagination ---------- */
+.pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin: 28px 0 16px;
+  padding: 16px 8px;
+  width: 100%;
+}
+.pagination-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.pagination .page-num {
+  min-width: 44px;
+  min-height: 44px;
+  padding: 6px 12px;
+  font-size: 1rem;
+}
+.pagination .page-num.active {
+  background: var(--c3, var(--sun));
+  color: var(--on-pastel);
+  transform: rotate(-1.5deg) translate(-1px, -1px);
+  box-shadow: 4px 4px 0 var(--shadow);
+  border-width: 2.5px;
+}
+.pagination .page-prev,
+.pagination .page-next {
+  min-height: 44px;
+  padding: 6px 14px;
+  font-size: 0.85rem;
+}
+.pagination-info {
+  font-family: var(--hand);
+  font-size: 1.15rem;
+  color: var(--muted);
+  text-align: center;
+  margin: 0;
+}
+
 .mascot-hero p { margin: 0; max-width: 46ch; }
 .empty.inline { padding: 18px 12px; grid-column: auto; }
 

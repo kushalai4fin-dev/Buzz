@@ -196,11 +196,14 @@
       var i = p.indexOf('=');
       params[i < 0 ? p : p.slice(0, i)] = i < 0 ? '' : safeDecode(p.slice(i + 1));
     });
+    var page = parseInt(params.page, 10);
+    if (!page || page < 1) page = 1;
+
     if (params.story) return { name: 'story', id: safeId(params.story), listen: params.listen === '1', tab: params.tab === 'full' ? 'full' : 'quick' };
     if ('settings' in params) return { name: 'settings' };
-    if ('tracked' in params) return { name: 'tracked' };
-    if (params.search != null) return { name: 'search', q: params.search.slice(0, 80) };
-    return { name: 'feed', topic: safeId(params.topic) || 'all' };
+    if ('tracked' in params) return { name: 'tracked', page: page };
+    if (params.search != null) return { name: 'search', q: params.search.slice(0, 80), page: page };
+    return { name: 'feed', topic: safeId(params.topic) || 'all', page: page };
   }
 
   function go(hash) {
@@ -288,7 +291,69 @@
     return wrap;
   }
 
-  /* ---------- views ---------- */
+  /* ---------- pagination & views ---------- */
+
+  var PAGE_SIZE = 9;
+  var MAX_PAGES = 9;
+
+  function renderPagination(totalItems, currentPage, makeHash) {
+    var totalPages = Math.ceil(totalItems / PAGE_SIZE);
+    if (totalPages <= 1) return null;
+
+    var maxPage = Math.min(totalPages, MAX_PAGES);
+    if (currentPage < 1) currentPage = 1;
+    if (currentPage > maxPage) currentPage = maxPage;
+
+    var wrap = el('nav', 'pagination wide');
+    wrap.setAttribute('aria-label', 'Pagination');
+
+    var controls = el('div', 'pagination-controls');
+
+    var prev = button('‹ Prev', 'btn page-prev', function () {
+      if (currentPage > 1) {
+        go(makeHash(currentPage - 1));
+      }
+    });
+    prev.setAttribute('aria-label', 'Previous page');
+    if (currentPage <= 1) {
+      prev.disabled = true;
+    }
+    controls.appendChild(prev);
+
+    for (var p = 1; p <= maxPage; p++) {
+      (function (pageNumber) {
+        var isCurrent = pageNumber === currentPage;
+        var btn = button(String(pageNumber), 'btn page-num' + (isCurrent ? ' primary active' : ''), function () {
+          if (!isCurrent) {
+            go(makeHash(pageNumber));
+          }
+        });
+        btn.setAttribute('aria-label', 'Page ' + pageNumber);
+        if (isCurrent) {
+          btn.setAttribute('aria-current', 'page');
+        }
+        controls.appendChild(btn);
+      })(p);
+    }
+
+    var next = button('Next ›', 'btn page-next', function () {
+      if (currentPage < maxPage) {
+        go(makeHash(currentPage + 1));
+      }
+    });
+    next.setAttribute('aria-label', 'Next page');
+    if (currentPage >= maxPage) {
+      next.disabled = true;
+    }
+    controls.appendChild(next);
+
+    wrap.appendChild(controls);
+
+    var info = el('p', 'pagination-info', 'Page ' + currentPage + ' of ' + maxPage + ' · ' + totalItems + ' stories');
+    wrap.appendChild(info);
+
+    return wrap;
+  }
 
   function renderFeedView(feed) {
     var topic = state.view.topic;
@@ -297,7 +362,21 @@
       feed.appendChild(mascotBlock('sleep', 'Nothing here yet. Check back after the next update.', 'wide'));
       return;
     }
-    list.forEach(function (c) { feed.appendChild(renderCard(c)); });
+
+    var totalPages = Math.min(Math.ceil(list.length / PAGE_SIZE), MAX_PAGES);
+    var currentPage = state.view.page || 1;
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+
+    var start = (currentPage - 1) * PAGE_SIZE;
+    var pageItems = list.slice(start, start + PAGE_SIZE);
+
+    pageItems.forEach(function (c) { feed.appendChild(renderCard(c)); });
+
+    var pag = renderPagination(list.length, currentPage, function (p) {
+      return '#topic=' + encodeURIComponent(topic) + (p > 1 ? '&page=' + p : '');
+    });
+    if (pag) feed.appendChild(pag);
   }
 
   function renderSearchView(feed) {
@@ -322,7 +401,21 @@
       feed.appendChild(mascotBlock('think', 'Nothing found in the last few days. Buzz only watches its listed sources, so a quiet topic can mean no coverage there yet. Try fewer or different words.', 'wide'));
       return;
     }
-    results.forEach(function (r) { feed.appendChild(renderCard(r.cluster)); });
+
+    var totalPages = Math.min(Math.ceil(results.length / PAGE_SIZE), MAX_PAGES);
+    var currentPage = state.view.page || 1;
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+
+    var start = (currentPage - 1) * PAGE_SIZE;
+    var pageResults = results.slice(start, start + PAGE_SIZE);
+
+    pageResults.forEach(function (r) { feed.appendChild(renderCard(r.cluster)); });
+
+    var pag = renderPagination(results.length, currentPage, function (p) {
+      return '#search=' + encodeURIComponent(q) + (p > 1 ? '&page=' + p : '');
+    });
+    if (pag) feed.appendChild(pag);
   }
 
   function renderTrackedView(feed) {
@@ -351,10 +444,25 @@
     if (!matches.length) {
       feed.appendChild(mascotBlock('sleep', 'No matches in the last few days. They will appear here when a source reports on your terms.', 'wide'));
     }
-    matches.forEach(function (m) {
+
+    var totalPages = Math.min(Math.ceil(matches.length / PAGE_SIZE), MAX_PAGES);
+    var currentPage = state.view.page || 1;
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+
+    var start = (currentPage - 1) * PAGE_SIZE;
+    var pageMatches = matches.slice(start, start + PAGE_SIZE);
+
+    pageMatches.forEach(function (m) {
       var isNew = m.terms.some(function (name) { return snapshot[name] && Date.parse(m.cluster.latest) > Date.parse(snapshot[name]); });
       feed.appendChild(renderCard(m.cluster, { terms: m.terms, isNew: isNew }));
     });
+
+    var pag = renderPagination(matches.length, currentPage, function (p) {
+      return '#tracked' + (p > 1 ? '&page=' + p : '');
+    });
+    if (pag) feed.appendChild(pag);
+
     profile.markChecked(nowIso());
     renderChips();
   }
@@ -881,7 +989,7 @@
 
   /* ---------- render ---------- */
 
-  function viewKey(v) { return v.name + '|' + (v.topic || '') + '|' + (v.q || '') + '|' + (v.id || ''); }
+  function viewKey(v) { return v.name + '|' + (v.topic || '') + '|' + (v.q || '') + '|' + (v.id || '') + '|' + (v.page || 1); }
 
   function render(keepScroll) {
     var feed = $('#feed');
@@ -889,9 +997,9 @@
     if (v.name !== 'story') speech.stop();
     feed.textContent = '';
     feed.className = 'feed' + (v.name === 'story' || v.name === 'settings' ? ' single' : '');
-    if (v.name === 'feed') state.lastFeedHash = 'topic=' + encodeURIComponent(v.topic);
-    if (v.name === 'tracked') state.lastFeedHash = 'tracked';
-    if (v.name === 'search') state.lastFeedHash = 'search=' + encodeURIComponent(v.q);
+    if (v.name === 'feed') state.lastFeedHash = 'topic=' + encodeURIComponent(v.topic) + (v.page > 1 ? '&page=' + v.page : '');
+    if (v.name === 'tracked') state.lastFeedHash = 'tracked' + (v.page > 1 ? '&page=' + v.page : '');
+    if (v.name === 'search') state.lastFeedHash = 'search=' + encodeURIComponent(v.q) + (v.page > 1 ? '&page=' + v.page : '');
     renderChips();
     var q = $('#q');
     if (q && v.name !== 'search') q.value = '';
