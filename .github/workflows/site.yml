@@ -1,0 +1,74 @@
+# Refreshes the headlines three times a day and publishes the site on GitHub Pages.
+# Times are UTC: 01:17, 08:17 and 14:17 UTC = about 06:47, 13:47 and 19:47 in India.
+name: Refresh news and publish site
+
+on:
+  schedule:
+    - cron: "17 1,8,14 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # lets the job save the refreshed headlines back to the repo
+  pages: write      # lets the job publish the site
+  id-token: write   # required by GitHub Pages deployment
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run tests
+        run: npm test
+
+      - name: Fetch latest headlines
+        run: node scripts/ingest.mjs
+
+      - name: Write plain-language explainers (skipped if no AI key is set)
+        continue-on-error: true   # an AI hiccup must never stop the site from updating
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}   # free key for the US charts; World Bank charts need none
+        run: node scripts/explain.mjs
+
+      - name: Save refreshed headlines to the repo
+        run: |
+          git config user.name "buzz-bot"
+          git config user.email "buzz-bot@users.noreply.github.com"
+          git add data/stories.json data/status.json data/explainers.json data/usage.json data/series-cache.json
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Refresh headlines"
+            git pull --rebase origin main || true
+            git push
+          fi
+
+      - name: Collect site files
+        run: |
+          mkdir _site
+          cp -r index.html styles.css config.js scenes.js motifs.js charts.js ask.js profile.js search.js speech.js notify.js app.js art.html art.js sw.js manifest.webmanifest icons data _site/
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

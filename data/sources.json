@@ -1,0 +1,458 @@
+{
+  "_readme": "Edit this file to add or remove news sources. Each source is one RSS/Atom feed. Set \"active\": false to switch a source off without deleting it. Only headline, short snippet and link are ever stored. 'group' says which publishing organisation owns a feed, so two feeds from the same outlet never count as two independent sources.",
+  "sources": [
+    {
+      "id": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "topics": [
+        "geopolitics"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "BBC encourages feed use with attribution as \"BBC News\" and links back to the article.",
+      "verification": "URL listed in BBC's published feed list and public directories. Not fetched live when this file was written; the first scheduled run is the real test.",
+      "group": "bbc"
+    },
+    {
+      "id": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "region": "Middle East",
+      "feedUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "topics": [
+        "geopolitics"
+      ],
+      "urlMustContain": [
+        "/news/",
+        "/economy/"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Feed carries all sections; only /news/ and /economy/ links are kept for now. Check Al Jazeera's feed terms before any wider use.",
+      "verification": "URL listed in public directories and used by other tools in 2026. Not fetched live when this file was written.",
+      "group": "aljazeera"
+    },
+    {
+      "id": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/world/rss",
+      "topics": [
+        "geopolitics"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with attribution. Check Guardian feed terms before any wider use.",
+      "verification": "URL listed in public directories. Not fetched live when this file was written.",
+      "group": "guardian"
+    },
+    {
+      "id": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "region": "South Asia",
+      "feedUrl": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "topics": [
+        "geopolitics"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with attribution.",
+      "verification": "Directory listings show the /news/international/feeder/ path but the exact file name is the least certain of all feeds here. If the source-health line shows it failing, tell me and I will fix the URL.",
+      "group": "thehindu"
+    },
+    {
+      "id": "guardian-science",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/science/rss",
+      "topics": [
+        "science"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with attribution.",
+      "verification": "URL listed in public directories. Not fetched live when this file was written.",
+      "group": "guardian"
+    },
+    {
+      "id": "guardian-space",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/science/space/rss",
+      "topics": [
+        "science"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with attribution.",
+      "verification": "URL listed in public directories. Not fetched live when this file was written.",
+      "group": "guardian"
+    },
+    {
+      "id": "bbc-science",
+      "publisher": "BBC News",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "topics": [
+        "science"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": false,
+      "licenceNotes": "BBC encourages feed use with attribution as \"BBC News\".",
+      "verification": "NOT VERIFIED. This URL did not appear in the sources checked, so it is switched off. Set active to true once confirmed.",
+      "group": "bbc"
+    },
+    {
+      "id": "bbc-business",
+      "publisher": "BBC News",
+      "group": "bbc",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "topics": [
+        "economics",
+        "finance"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "BBC encourages feed use with attribution as \"BBC News\" and links back to the article.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "bbc-technology",
+      "publisher": "BBC News",
+      "group": "bbc",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "topics": [
+        "technology"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "BBC encourages feed use with attribution as \"BBC News\" and links back to the article.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "bbc-entertainment",
+      "publisher": "BBC News",
+      "group": "bbc",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "topics": [
+        "entertainment",
+        "movies",
+        "music"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "BBC encourages feed use with attribution as \"BBC News\" and links back to the article.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "bbc-sport",
+      "publisher": "BBC Sport",
+      "group": "bbc",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "topics": [
+        "sports"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "BBC encourages feed use with attribution as \"BBC News\" and links back to the article.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-business",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/business/rss",
+      "topics": [
+        "economics",
+        "finance"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-technology",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/technology/rss",
+      "topics": [
+        "technology"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-music",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/music/rss",
+      "topics": [
+        "music"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-film",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/film/rss",
+      "topics": [
+        "movies"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-tv",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/tv-and-radio/rss",
+      "topics": [
+        "entertainment"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-sport",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/sport/rss",
+      "topics": [
+        "sports"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "guardian-wildlife",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "country": "GB",
+      "region": "UK",
+      "feedUrl": "https://www.theguardian.com/environment/wildlife/rss",
+      "topics": [
+        "animals"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Guardian feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "thehindu-business",
+      "publisher": "The Hindu",
+      "group": "thehindu",
+      "country": "IN",
+      "region": "India",
+      "feedUrl": "https://www.thehindu.com/business/feeder/default.rss",
+      "topics": [
+        "economics",
+        "finance"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Hindu feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "thehindu-sport",
+      "publisher": "The Hindu",
+      "group": "thehindu",
+      "country": "IN",
+      "region": "India",
+      "feedUrl": "https://www.thehindu.com/sport/feeder/default.rss",
+      "topics": [
+        "sports"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Hindu feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "thehindu-scitech",
+      "publisher": "The Hindu",
+      "group": "thehindu",
+      "country": "IN",
+      "region": "India",
+      "feedUrl": "https://www.thehindu.com/sci-tech/feeder/default.rss",
+      "topics": [
+        "technology",
+        "science"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check The Hindu feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "npr-world",
+      "publisher": "NPR",
+      "group": "npr",
+      "country": "US",
+      "region": "United States",
+      "feedUrl": "https://feeds.npr.org/1004/rss.xml",
+      "topics": [
+        "geopolitics"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check NPR feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "npr-business",
+      "publisher": "NPR",
+      "group": "npr",
+      "country": "US",
+      "region": "United States",
+      "feedUrl": "https://feeds.npr.org/1006/rss.xml",
+      "topics": [
+        "economics",
+        "finance"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check NPR feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "npr-science",
+      "publisher": "NPR",
+      "group": "npr",
+      "country": "US",
+      "region": "United States",
+      "feedUrl": "https://feeds.npr.org/1007/rss.xml",
+      "topics": [
+        "science"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check NPR feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "npr-technology",
+      "publisher": "NPR",
+      "group": "npr",
+      "country": "US",
+      "region": "United States",
+      "feedUrl": "https://feeds.npr.org/1019/rss.xml",
+      "topics": [
+        "technology"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check NPR feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    },
+    {
+      "id": "dw-all",
+      "publisher": "Deutsche Welle",
+      "group": "dw",
+      "country": "DE",
+      "region": "Germany",
+      "feedUrl": "https://rss.dw.com/rdf/rss-en-all",
+      "topics": [
+        "geopolitics"
+      ],
+      "language": "en",
+      "sourceType": "original reporting",
+      "syndication": [],
+      "active": true,
+      "licenceNotes": "Headline, snippet and link only, with the publisher named and linked. Check DW feed terms before wider public use.",
+      "verification": "URL from the publisher's public feed list or public directories. Not fetched live when this file was written; the first scheduled run is the real test."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-10-27T15:00:00.000Z",
+  "demo": true,
+  "stories": [
+    {
+      "id": "demo00000001",
+      "topic": "geopolitics",
+      "title": "DEMO: This is where a world headline will appear",
+      "snippet": "Demonstration card only, not real news. After the first scheduled update, real headlines from the sources in sources.json replace these.",
+      "url": "https://www.bbc.com/news/world",
+      "sourceId": "demo",
+      "publisher": "Demo data",
+      "country": "",
+      "published": null,
+      "firstSeen": "2026-10-27T15:00:00.000Z",
+      "singleSource": true,
+      "demo": true
+    },
+    {
+      "id": "demo00000002",
+      "topic": "geopolitics",
+      "title": "DEMO: Every card links back to the original publisher",
+      "snippet": "Buzz shows only a headline, a short snippet and a link. The full story always stays with the outlet that reported it.",
+      "url": "https://www.theguardian.com/world",
+      "sourceId": "demo",
+      "publisher": "Demo data",
+      "country": "",
+      "published": null,
+      "firstSeen": "2026-10-27T15:00:00.000Z",
+      "singleSource": true,
+      "demo": true
+    },
+    {
+      "id": "demo00000003",
+      "topic": "geopolitics",
+      "title": "DEMO: Stories backed by one outlet carry a clear label",
+      "snippet": "Until the multi-source check arrives in a later stage, every story is marked as single source so nothing looks more verified than it is.",
+      "url": "https://www.aljazeera.com/news/",
+      "sourceId": "demo",
+      "publisher": "Demo data",
+      "country": "",
+      "published": null,
+      "firstSeen": "2026-10-27T15:00:00.000Z",
+      "singleSource": true,
+      "demo": true
+    },
+    {
+      "id": "demo00000004",
+      "topic": "science",
+      "title": "DEMO: Science and discovery stories get their own scene",
+      "snippet": "Each topic has its own illustration. The final mascot and full set of scenes arrive in the design stage.",
+      "url": "https://www.theguardian.com/science",
+      "sourceId": "demo",
+      "publisher": "Demo data",
+      "country": "",
+      "published": null,
+      "firstSeen": "2026-10-27T15:00:00.000Z",
+      "singleSource": true,
+      "demo": true
+    },
+    {
+      "id": "demo00000005",
+      "topic": "science",
+      "title": "DEMO: Plain-language explainers come in a later stage",
+      "snippet": "The Explain, Simplify and Listen buttons are not built yet. This first version shows real headlines, sources and links.",
+      "url": "https://www.theguardian.com/science/space",
+      "sourceId": "demo",
+      "publisher": "Demo data",
+      "country": "",
+      "published": null,
+      "firstSeen": "2026-10-27T15:00:00.000Z",
+      "singleSource": true,
+      "demo": true
+    }
+  ]
+}

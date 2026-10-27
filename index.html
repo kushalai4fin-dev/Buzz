@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Buzz: the news, made plain</title>
+  <meta name="description" content="Headlines from trusted outlets around the world, with sources and links, in a friendly format.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'self' https://*.supabase.co https://*.workers.dev; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="theme-color" content="#fff8ec" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1d1b26" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Buzz">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#feed">Skip to headlines</a>
+
+  <header class="top">
+    <div class="brand">
+      <span id="brand-mascot" aria-hidden="true"></span>
+      <h1 class="logo">Buzz</h1>
+      <p class="tagline">The news, made plain.</p>
+    </div>
+    <button type="button" class="gear" id="open-settings" aria-label="Settings">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M12 8.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm8.2 4.7-.1-1.4 1.7-1.3-1.7-3-2 .8a7 7 0 0 0-1.2-.7L16.5 5h-3.4l-.4 2.1a7 7 0 0 0-1.2.7l-2-.8-1.7 3 1.7 1.3a7 7 0 0 0 0 1.4l-1.7 1.3 1.7 3 2-.8c.4.3.8.5 1.2.7l.4 2.1h3.4l.4-2.1c.4-.2.8-.4 1.2-.7l2 .8 1.7-3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" transform="translate(-1.5 -1.5) scale(1.12)"/></svg>
+    </button>
+    <form class="search" id="search-form" role="search">
+      <label class="sr-only" for="q">Search the news</label>
+      <input id="q" name="q" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Search anything…">
+      <button type="submit" class="btn primary">Search</button>
+    </form>
+    <nav class="chips" id="chips" aria-label="Topics"></nav>
+  </header>
+
+  <div class="notices" id="notices" aria-live="polite"></div>
+
+  <main id="feed" class="feed" tabindex="-1">
+    <p class="loading" id="loading" role="status">Loading headlines&hellip;</p>
+  </main>
+
+  <footer class="foot">
+    <section aria-labelledby="src-h">
+      <h2 id="src-h" class="foot-h">Where headlines come from</h2>
+      <p class="foot-note">Buzz shows only a headline, a short snippet and a link. The full story always belongs to the outlet that reported it. Cards say how many independent outlets reported a story. That shows how widely it is reported, not that every detail is true.</p>
+      <ul class="sources" id="sources"></ul>
+      <p class="foot-note" id="refreshed"></p>
+    </section>
+  </footer>
+
+  <noscript><p class="loading">Buzz needs JavaScript to show headlines.</p></noscript>
+  <script src="config.js"></script>
+  <script src="scenes.js" defer></script>
+  <script src="motifs.js" defer></script>
+  <script src="charts.js" defer></script>
+  <script src="ask.js" defer></script>
+  <script src="profile.js" defer></script>
+  <script src="search.js" defer></script>
+  <script src="speech.js" defer></script>
+  <script src="notify.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

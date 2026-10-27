@@ -1,0 +1,455 @@
+{
+  "_readme": "Edit this file to add topics or subtopics. Set \"enabled\": true to show a topic in the app. A topic only shows cards once a source in sources.json lists it.",
+  "topics": [
+    {
+      "id": "geopolitics",
+      "label": "World & Geopolitics",
+      "enabled": true,
+      "description": "Wars, diplomacy, trade fights and the decisions that move countries.",
+      "aliases": [
+        "world",
+        "international",
+        "politics"
+      ],
+      "keywords": [
+        "war",
+        "diplomacy",
+        "sanctions",
+        "treaty",
+        "summit"
+      ],
+      "subtopics": [
+        {
+          "id": "war",
+          "label": "War & conflict",
+          "aliases": [
+            "conflict",
+            "ceasefire"
+          ],
+          "keywords": [
+            "war",
+            "ceasefire",
+            "troops",
+            "missile"
+          ]
+        },
+        {
+          "id": "energy",
+          "label": "Oil, gas & coal",
+          "aliases": [
+            "oil",
+            "coal",
+            "gas"
+          ],
+          "keywords": [
+            "oil",
+            "opec",
+            "coal",
+            "pipeline",
+            "lng"
+          ]
+        },
+        {
+          "id": "trade",
+          "label": "Tariffs & trade",
+          "aliases": [
+            "tariffs"
+          ],
+          "keywords": [
+            "tariff",
+            "trade deal",
+            "export ban",
+            "wto"
+          ]
+        },
+        {
+          "id": "sanctions",
+          "label": "Sanctions",
+          "aliases": [],
+          "keywords": [
+            "sanction",
+            "embargo"
+          ]
+        },
+        {
+          "id": "un",
+          "label": "UN decisions",
+          "aliases": [
+            "united nations"
+          ],
+          "keywords": [
+            "un security council",
+            "united nations",
+            "general assembly"
+          ]
+        },
+        {
+          "id": "brics",
+          "label": "BRICS & blocs",
+          "aliases": [
+            "brics"
+          ],
+          "keywords": [
+            "brics",
+            "g20",
+            "g7",
+            "asean"
+          ]
+        },
+        {
+          "id": "infrastructure",
+          "label": "Major infrastructure",
+          "aliases": [
+            "trade corridors"
+          ],
+          "keywords": [
+            "corridor",
+            "port",
+            "railway",
+            "canal",
+            "bridge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science & Discoveries",
+      "enabled": true,
+      "description": "New research, space, climate and the things people find out.",
+      "aliases": [
+        "discoveries",
+        "research",
+        "space"
+      ],
+      "keywords": [
+        "study",
+        "researchers",
+        "scientists",
+        "telescope",
+        "fossil"
+      ],
+      "subtopics": [
+        {
+          "id": "space",
+          "label": "Space",
+          "aliases": [
+            "astronomy"
+          ],
+          "keywords": [
+            "nasa",
+            "telescope",
+            "orbit",
+            "mars",
+            "moon"
+          ]
+        },
+        {
+          "id": "climate",
+          "label": "Climate & environment",
+          "aliases": [
+            "environment"
+          ],
+          "keywords": [
+            "climate",
+            "emissions",
+            "warming",
+            "biodiversity"
+          ]
+        },
+        {
+          "id": "medicine",
+          "label": "Medical research",
+          "aliases": [
+            "health research"
+          ],
+          "keywords": [
+            "trial",
+            "vaccine",
+            "cancer",
+            "gene"
+          ]
+        },
+        {
+          "id": "discoveries",
+          "label": "Big discoveries",
+          "aliases": [
+            "inventions"
+          ],
+          "keywords": [
+            "discovery",
+            "new species",
+            "breakthrough",
+            "fossil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "label": "Finance",
+      "enabled": true,
+      "description": "Banks, markets, currencies and money.",
+      "aliases": [
+        "markets",
+        "money"
+      ],
+      "keywords": [
+        "stocks",
+        "bonds",
+        "currency",
+        "bank"
+      ],
+      "subtopics": [
+        {
+          "id": "banks",
+          "label": "Banks",
+          "aliases": [],
+          "keywords": [
+            "bank",
+            "lender"
+          ]
+        },
+        {
+          "id": "stocks",
+          "label": "Stocks",
+          "aliases": [
+            "equities"
+          ],
+          "keywords": [
+            "stocks",
+            "shares",
+            "index"
+          ]
+        },
+        {
+          "id": "gold",
+          "label": "Gold & metals",
+          "aliases": [
+            "gold"
+          ],
+          "keywords": [
+            "gold",
+            "silver",
+            "copper"
+          ]
+        },
+        {
+          "id": "currencies",
+          "label": "Currencies",
+          "aliases": [
+            "forex"
+          ],
+          "keywords": [
+            "rupee",
+            "dollar",
+            "euro",
+            "exchange rate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "label": "Economics",
+      "enabled": true,
+      "description": "Prices, jobs, growth and the choices of central banks.",
+      "aliases": [
+        "economy"
+      ],
+      "keywords": [
+        "inflation",
+        "gdp",
+        "unemployment",
+        "central bank"
+      ],
+      "subtopics": [
+        {
+          "id": "inflation",
+          "label": "Inflation",
+          "aliases": [
+            "prices"
+          ],
+          "keywords": [
+            "inflation",
+            "cpi"
+          ]
+        },
+        {
+          "id": "jobs",
+          "label": "Jobs",
+          "aliases": [
+            "employment"
+          ],
+          "keywords": [
+            "jobs",
+            "unemployment",
+            "payrolls"
+          ]
+        },
+        {
+          "id": "central-banks",
+          "label": "Central banks",
+          "aliases": [
+            "interest rates"
+          ],
+          "keywords": [
+            "rbi",
+            "fed",
+            "ecb",
+            "interest rate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "label": "Sports",
+      "enabled": true,
+      "description": "Matches, athletes and big tournaments.",
+      "aliases": [
+        "sport"
+      ],
+      "keywords": [
+        "match",
+        "tournament",
+        "league"
+      ],
+      "subtopics": [
+        {
+          "id": "cricket",
+          "label": "Cricket",
+          "aliases": [],
+          "keywords": [
+            "cricket",
+            "test match",
+            "ipl"
+          ]
+        },
+        {
+          "id": "football",
+          "label": "Football",
+          "aliases": [
+            "soccer"
+          ],
+          "keywords": [
+            "football",
+            "premier league",
+            "fifa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "enabled": true,
+      "description": "Artists, albums and tours.",
+      "aliases": [],
+      "keywords": [
+        "album",
+        "concert",
+        "singer"
+      ],
+      "subtopics": []
+    },
+    {
+      "id": "movies",
+      "label": "Movies",
+      "enabled": true,
+      "description": "Films, festivals and box office.",
+      "aliases": [
+        "film",
+        "cinema"
+      ],
+      "keywords": [
+        "film",
+        "box office",
+        "director"
+      ],
+      "subtopics": []
+    },
+    {
+      "id": "entertainment",
+      "label": "Entertainment",
+      "enabled": true,
+      "description": "TV, celebrities and culture.",
+      "aliases": [
+        "culture"
+      ],
+      "keywords": [
+        "tv",
+        "series",
+        "celebrity"
+      ],
+      "subtopics": []
+    },
+    {
+      "id": "animals",
+      "label": "Animals",
+      "enabled": true,
+      "description": "Wildlife, pets and nature stories.",
+      "aliases": [
+        "wildlife"
+      ],
+      "keywords": [
+        "species",
+        "wildlife",
+        "zoo"
+      ],
+      "subtopics": []
+    },
+    {
+      "id": "technology",
+      "label": "Technology",
+      "enabled": true,
+      "description": "AI, chips, security and gadgets.",
+      "aliases": [
+        "tech"
+      ],
+      "keywords": [
+        "ai",
+        "chip",
+        "software"
+      ],
+      "subtopics": [
+        {
+          "id": "ai",
+          "label": "AI",
+          "aliases": [
+            "artificial intelligence"
+          ],
+          "keywords": [
+            "ai",
+            "model",
+            "chatbot"
+          ]
+        },
+        {
+          "id": "semiconductors",
+          "label": "Semiconductors",
+          "aliases": [
+            "chips"
+          ],
+          "keywords": [
+            "chip",
+            "semiconductor",
+            "foundry"
+          ]
+        },
+        {
+          "id": "cyber",
+          "label": "Cybersecurity",
+          "aliases": [
+            "security"
+          ],
+          "keywords": [
+            "hack",
+            "breach",
+            "ransomware"
+          ]
+        }
+      ]
+    }
+  ]
+}

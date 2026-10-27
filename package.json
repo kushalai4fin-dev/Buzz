@@ -1,0 +1,21 @@
+{
+  "name": "buzz",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Buzz: global news explained simply.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs",
+    "test": "node --test",
+    "serve": "python3 -m http.server 8080",
+    "explain": "node scripts/explain.mjs",
+    "digests": "node scripts/send-digests.mjs",
+    "vapid": "node scripts/make-vapid.mjs"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
