@@ -1,4 +1,283 @@
 {
-  "generatedAt": null,
-  "sources": {}
+  "generatedAt": "2026-10-27T22:38:11.127Z",
+  "sources": {
+    "bbc-world": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 28,
+      "acceptedCount": 25,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "aljazeera-news": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 25,
+      "acceptedCount": 15,
+      "skippedCount": 10,
+      "error": null,
+      "paused": false
+    },
+    "guardian-world": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 45,
+      "acceptedCount": 25,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "thehindu-international": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 60,
+      "acceptedCount": 25,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "guardian-science": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 28,
+      "acceptedCount": 19,
+      "skippedCount": 9,
+      "error": null,
+      "paused": false
+    },
+    "guardian-space": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 20,
+      "acceptedCount": 3,
+      "skippedCount": 17,
+      "error": null,
+      "paused": false
+    },
+    "bbc-science": {
+      "skipped": "inactive"
+    },
+    "bbc-business": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 49,
+      "acceptedCount": 25,
+      "skippedCount": 17,
+      "error": null,
+      "paused": false
+    },
+    "bbc-technology": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 20,
+      "acceptedCount": 13,
+      "skippedCount": 7,
+      "error": null,
+      "paused": false
+    },
+    "bbc-entertainment": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 23,
+      "acceptedCount": 23,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "bbc-sport": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 68,
+      "acceptedCount": 25,
+      "skippedCount": 9,
+      "error": null,
+      "paused": false
+    },
+    "guardian-business": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 19,
+      "acceptedCount": 16,
+      "skippedCount": 3,
+      "error": null,
+      "paused": false
+    },
+    "guardian-technology": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 36,
+      "acceptedCount": 25,
+      "skippedCount": 8,
+      "error": null,
+      "paused": false
+    },
+    "guardian-music": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 26,
+      "acceptedCount": 19,
+      "skippedCount": 7,
+      "error": null,
+      "paused": false
+    },
+    "guardian-film": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 29,
+      "acceptedCount": 19,
+      "skippedCount": 10,
+      "error": null,
+      "paused": false
+    },
+    "guardian-tv": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 20,
+      "acceptedCount": 10,
+      "skippedCount": 10,
+      "error": null,
+      "paused": false
+    },
+    "guardian-sport": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 23,
+      "acceptedCount": 23,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "guardian-wildlife": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 20,
+      "acceptedCount": 20,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "thehindu-business": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 60,
+      "acceptedCount": 25,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "thehindu-sport": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 60,
+      "acceptedCount": 25,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "thehindu-scitech": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 60,
+      "acceptedCount": 25,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "npr-world": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 10,
+      "acceptedCount": 10,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "npr-business": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 10,
+      "acceptedCount": 10,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "npr-science": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 10,
+      "acceptedCount": 7,
+      "skippedCount": 3,
+      "error": null,
+      "paused": false
+    },
+    "npr-technology": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 10,
+      "acceptedCount": 10,
+      "skippedCount": 0,
+      "error": null,
+      "paused": false
+    },
+    "dw-all": {
+      "ok": true,
+      "lastAttempt": "2026-10-27T22:38:11.127Z",
+      "lastSuccess": "2026-10-27T22:38:11.127Z",
+      "consecutiveFailures": 0,
+      "itemCount": 130,
+      "acceptedCount": 25,
+      "skippedCount": 83,
+      "error": null,
+      "paused": false
+    }
+  }
 }
