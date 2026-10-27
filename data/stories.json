@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-10-27T22:53:17.332Z",
+  "generatedAt": "2026-10-27T23:01:14.336Z",
   "demo": false,
   "stories": [
+    {
+      "id": "548a1a05caef",
+      "topic": "economics",
+      "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+      "snippet": "Some families say they cannot afford to stockpile in line with the government's advice.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do",
+      "sourceId": "bbc-business",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-10-27T22:51:50.000Z",
+      "firstSeen": "2026-10-27T23:01:14.336Z",
+      "singleSource": true,
+      "clusterId": "548a1a05caef"
+    },
     {
       "id": "bd57df7ea69a",
       "topic": "sports",
@@ -11,10 +25,24 @@
       "sourceId": "guardian-sport",
       "publisher": "The Guardian",
       "country": "GB",
-      "published": "2026-10-27T22:43:10.000Z",
+      "published": "2026-10-27T22:47:43.000Z",
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "bd57df7ea69a"
+    },
+    {
+      "id": "142764f66840",
+      "topic": "geopolitics",
+      "title": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+      "snippet": "Cassidy Hutchinson had implicated Donald Trump in US Capitol attack during testimony before House committee The justice department on Tuesday failed to secure a grand jury indictment against a former White House…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T22:40:27.000Z",
+      "firstSeen": "2026-10-27T23:01:14.336Z",
+      "singleSource": true,
+      "clusterId": "142764f66840"
     },
     {
       "id": "7fbcc354b100",
@@ -70,7 +98,7 @@
       "published": "2026-10-27T22:33:05.000Z",
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
-      "clusterId": "bcc76393f0bd"
+      "clusterId": "a503a39a14ba"
     },
     {
       "id": "2d27ef900c67",
@@ -99,6 +127,34 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "e938c38a6807"
+    },
+    {
+      "id": "db21c104226c",
+      "topic": "geopolitics",
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "snippet": "Iranian president's words came at summit for gas exporting countries in Russia.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-10-27T22:29:31.000Z",
+      "firstSeen": "2026-10-27T23:01:14.336Z",
+      "singleSource": true,
+      "clusterId": "db21c104226c"
+    },
+    {
+      "id": "8c48ead151f8",
+      "topic": "sports",
+      "title": "Fantastic Fleetwood seal shootout success in Carabao Cup shock against Arsenal",
+      "snippet": "It’s more than 20 years since Arsenal played at Highbury but their trip to League Two Fleetwood – and a stadium of the same name – did not bring back fond memories as they were dumped out of the Carabao Cup on…",
+      "url": "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T22:26:05.000Z",
+      "firstSeen": "2026-10-27T23:01:14.336Z",
+      "singleSource": true,
+      "clusterId": "8c48ead151f8"
     },
     {
       "id": "1d9a88889f65",
@@ -481,7 +537,7 @@
     {
       "id": "a503a39a14ba",
       "topic": "geopolitics",
-      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
+      "title": "Exit polls from Israel’s election show no clear winner",
       "snippet": "Israel's first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority.",
       "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner",
       "sourceId": "aljazeera-news",
@@ -897,6 +953,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "a144d5c95841"
+    },
+    {
+      "id": "242f7026bbc7",
+      "topic": "entertainment",
+      "title": "Adventurer completes 400-mile expedition after losing contact with team",
+      "snippet": "Ash Dykes is trying to complete six back-to-back expeditions in a variety of extreme environments.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5n7e1jjjzo",
+      "sourceId": "bbc-entertainment",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-10-27T18:31:07.000Z",
+      "firstSeen": "2026-10-27T23:01:14.336Z",
+      "singleSource": true,
+      "clusterId": "242f7026bbc7"
     },
     {
       "id": "ee186b92d804",
@@ -4035,20 +4105,6 @@
       "clusterId": "a4dafb4ffd3d"
     },
     {
-      "id": "a47d40e6b676",
-      "topic": "economics",
-      "title": "Netflix lays off 6% of workforce amidst slowing growth",
-      "snippet": "Netflix is regrouping after the release of its latest quarterly earnings this week. Revenue growth at the streaming giant has slowed as the company works to overhaul its programming unit.",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-25T12:25:29.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "a47d40e6b676"
-    },
-    {
       "id": "6e5e55b7178a",
       "topic": "science",
       "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
@@ -5367,6 +5423,20 @@
   ],
   "clusters": [
     {
+      "id": "548a1a05caef",
+      "topic": "economics",
+      "leadId": "548a1a05caef",
+      "storyIds": [
+        "548a1a05caef"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:51:50.000Z"
+    },
+    {
       "id": "bd57df7ea69a",
       "topic": "sports",
       "leadId": "bd57df7ea69a",
@@ -5378,7 +5448,21 @@
       ],
       "independentSources": 1,
       "multiSource": false,
-      "latest": "2026-10-27T22:43:10.000Z"
+      "latest": "2026-10-27T22:47:43.000Z"
+    },
+    {
+      "id": "142764f66840",
+      "topic": "geopolitics",
+      "leadId": "142764f66840",
+      "storyIds": [
+        "142764f66840"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:40:27.000Z"
     },
     {
       "id": "7fbcc354b100",
@@ -5423,18 +5507,19 @@
       "latest": "2026-10-27T22:34:33.000Z"
     },
     {
-      "id": "bcc76393f0bd",
+      "id": "a503a39a14ba",
       "topic": "geopolitics",
-      "leadId": "bcc76393f0bd",
+      "leadId": "a503a39a14ba",
       "storyIds": [
-        "bcc76393f0bd",
+        "a503a39a14ba",
         "c39d9268163d"
       ],
       "publishers": [
+        "Al Jazeera",
         "The Guardian"
       ],
-      "independentSources": 1,
-      "multiSource": false,
+      "independentSources": 2,
+      "multiSource": true,
       "latest": "2026-10-27T22:33:05.000Z"
     },
     {
@@ -5464,6 +5549,34 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T22:30:36.000Z"
+    },
+    {
+      "id": "db21c104226c",
+      "topic": "geopolitics",
+      "leadId": "db21c104226c",
+      "storyIds": [
+        "db21c104226c"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:29:31.000Z"
+    },
+    {
+      "id": "8c48ead151f8",
+      "topic": "sports",
+      "leadId": "8c48ead151f8",
+      "storyIds": [
+        "8c48ead151f8"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:26:05.000Z"
     },
     {
       "id": "adb1d5237e96",
@@ -5652,6 +5765,20 @@
       "latest": "2026-10-27T21:09:12.000Z"
     },
     {
+      "id": "bcc76393f0bd",
+      "topic": "geopolitics",
+      "leadId": "bcc76393f0bd",
+      "storyIds": [
+        "bcc76393f0bd"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T20:56:23.000Z"
+    },
+    {
       "id": "c65090d07e0c",
       "topic": "economics",
       "leadId": "c65090d07e0c",
@@ -5808,20 +5935,6 @@
       "independentSources": 2,
       "multiSource": true,
       "latest": "2026-10-27T20:21:00.000Z"
-    },
-    {
-      "id": "a503a39a14ba",
-      "topic": "geopolitics",
-      "leadId": "a503a39a14ba",
-      "storyIds": [
-        "a503a39a14ba"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T20:18:18.000Z"
     },
     {
       "id": "af04881b867b",
@@ -6215,6 +6328,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T18:31:54.000Z"
+    },
+    {
+      "id": "242f7026bbc7",
+      "topic": "entertainment",
+      "leadId": "242f7026bbc7",
+      "storyIds": [
+        "242f7026bbc7"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T18:31:07.000Z"
     },
     {
       "id": "45f2bcfaac9c",
@@ -9273,20 +9400,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-25T13:43:19.000Z"
-    },
-    {
-      "id": "a47d40e6b676",
-      "topic": "economics",
-      "leadId": "a47d40e6b676",
-      "storyIds": [
-        "a47d40e6b676"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-25T12:25:29.000Z"
     },
     {
       "id": "6e5e55b7178a",
