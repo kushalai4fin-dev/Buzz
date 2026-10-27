@@ -10,7 +10,8 @@
   "scripts": {
     "ingest": "node scripts/ingest.mjs",
     "test": "node --test",
-    "serve": "python3 -m http.server 8080",
+    "start": "node server.mjs",
+    "serve": "node server.mjs",
     "explain": "node scripts/explain.mjs",
     "digests": "node scripts/send-digests.mjs",
     "vapid": "node scripts/make-vapid.mjs"
