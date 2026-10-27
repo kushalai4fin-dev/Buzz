@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-10-27T22:49:33.995Z",
+  "generatedAt": "2026-10-27T22:49:42.519Z",
   "demo": false,
   "stories": [
+    {
+      "id": "142764f66840",
+      "topic": "geopolitics",
+      "title": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+      "snippet": "Cassidy Hutchinson had implicated Donald Trump in US Capitol attack during testimony before House committee The justice department on Tuesday failed to secure a grand jury indictment against a former White House…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T22:40:27.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "142764f66840"
+    },
     {
       "id": "7fbcc354b100",
       "topic": "geopolitics",
@@ -11,7 +25,7 @@
       "sourceId": "guardian-world",
       "publisher": "The Guardian",
       "country": "GB",
-      "published": "2026-10-27T22:39:37.000Z",
+      "published": "2026-10-27T22:40:17.000Z",
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "7fbcc354b100"
@@ -56,7 +70,7 @@
       "published": "2026-10-27T22:33:05.000Z",
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
-      "clusterId": "a503a39a14ba"
+      "clusterId": "bcc76393f0bd"
     },
     {
       "id": "2d27ef900c67",
@@ -99,6 +113,34 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "bd57df7ea69a"
+    },
+    {
+      "id": "db21c104226c",
+      "topic": "geopolitics",
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "snippet": "Iranian president's words came at summit for gas exporting countries in Russia.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-10-27T22:29:31.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "db21c104226c"
+    },
+    {
+      "id": "8c48ead151f8",
+      "topic": "sports",
+      "title": "Fantastic Fleetwood seal shootout success in Carabao Cup shock against Arsenal",
+      "snippet": "It’s more than 20 years since Arsenal played at Highbury but their trip to League Two Fleetwood – and a stadium of the same name – did not bring back fond memories as they were dumped out of the Carabao Cup on…",
+      "url": "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T22:26:05.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "8c48ead151f8"
     },
     {
       "id": "1d9a88889f65",
@@ -481,7 +523,7 @@
     {
       "id": "a503a39a14ba",
       "topic": "geopolitics",
-      "title": "Exit polls from Israel’s election show no clear winner",
+      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
       "snippet": "Israel's first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority.",
       "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner",
       "sourceId": "aljazeera-news",
@@ -1375,34 +1417,6 @@
       "clusterId": "55b4ba5fe052"
     },
     {
-      "id": "d723a0f9ad08",
-      "topic": "geopolitics",
-      "title": "On election day, Israeli settlers look beyond Netanyahu to far right",
-      "snippet": "More than 500,000 Israeli settlers live in settlements in the West Bank, which is also home to more than three million Palestinians",
-      "url": "https://www.thehindu.com/news/international/netanyahus-rival-eisenkot-urges-voters-to-unseat-worst-govt-in-israeli-history/article71631613.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-10-27T16:52:56.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "d723a0f9ad08"
-    },
-    {
-      "id": "aff85c595d4b",
-      "topic": "geopolitics",
-      "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
-      "snippet": "French soccer star Kylian Mbappe has apologized after apparently referring to Mao Zedong as a dictator. Chinese sponsors have dropped him, while state television has suspended Spanish league broadcasts.",
-      "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf",
-      "sourceId": "dw-all",
-      "publisher": "Deutsche Welle",
-      "country": "DE",
-      "published": "2026-10-27T16:49:00.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "aff85c595d4b"
-    },
-    {
       "id": "c5cc55736e5f",
       "topic": "entertainment",
       "title": "Russell Brand told police he never had non-consensual sex",
@@ -1499,6 +1513,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "a3730927ecbc"
+    },
+    {
+      "id": "f3a6666a4d44",
+      "topic": "sports",
+      "title": "Starc strikes back as Australia dismiss South Africa for 329 on day one of third Test – as it happened",
+      "snippet": "Mitchell Starc took six-for as Australia recovered to dismiss South Africa out for 329 on a topsy-turvy day Among the Australia’s four changes for this Test, there’s still no proven replacement opener for Usman…",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/27/south-africa-v-australia-third-test-day-one-cricket-newlands-cape-town-live-updates",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T15:59:03.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "f3a6666a4d44"
     },
     {
       "id": "777e11348bf3",
@@ -1709,6 +1737,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "fe53c9073c32"
+    },
+    {
+      "id": "b7c387f15341",
+      "topic": "entertainment",
+      "title": "Jon Stewart on the midterms: ‘Republicans running for Congress can’t defend Trump’s reckless record’",
+      "snippet": "Late-night hosts discussed Trump’s distraction tactics and crass comments on Nicki Minaj’s derriere as he campaigns Late-night hosts mocked Donald Trump ’s bizarre rally with Nicki Minaj as the clock ticks down to the…",
+      "url": "https://www.theguardian.com/culture/2026/oct/27/jon-stewart-midterms-republicans-congress-trump",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T15:04:17.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "b7c387f15341"
     },
     {
       "id": "3e34e7a03b6a",
@@ -2313,6 +2355,20 @@
       "clusterId": "34e7dafd3004"
     },
     {
+      "id": "214509ee2041",
+      "topic": "sports",
+      "title": "Carrick given chance to save job as he stays for Manchester United’s game at Chelsea",
+      "snippet": "Jason Wilcox has driven decision to stand by head coach United would have to pay Newcastle about £3m for Howe Michael Carrick has been given the chance to save his job by turning Manchester United’s results around…",
+      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T12:21:15.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "214509ee2041"
+    },
+    {
       "id": "f05c0883b58c",
       "topic": "sports",
       "title": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
@@ -2383,20 +2439,6 @@
       "clusterId": "dea65faa2c9c"
     },
     {
-      "id": "5c0f4443de90",
-      "topic": "sports",
-      "title": "David Squires on … Manchester United’s latest crisis and dirty laundry",
-      "snippet": "Our cartoonist on the expected end for Michael Carrick at Old Trafford and what could come next Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
-      "url": "https://www.theguardian.com/football/picture/2026/oct/27/david-squires-on-manchester-united-latest-crisis-michael-carrick-cartoon",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-10-27T11:35:37.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "5c0f4443de90"
-    },
-    {
       "id": "67c635ca2f1c",
       "topic": "finance",
       "title": "Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
@@ -2411,20 +2453,6 @@
       "clusterId": "67c635ca2f1c"
     },
     {
-      "id": "6289a3f35caa",
-      "topic": "sports",
-      "title": "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge",
-      "snippet": "His comments came after India registered a six-wicket, with the left-hander earning the Player of the Match award",
-      "url": "https://www.thehindu.com/sport/after-his-38-ball-113-abhishek-sharma-plays-down-yuvrajs-12-ball-fifty-challenge/article71631151.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-10-27T11:32:28.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "6289a3f35caa"
-    },
-    {
       "id": "7e99bf657621",
       "topic": "entertainment",
       "title": "Netherlands pulls out of Eurovision again over Israel participation",
@@ -2437,20 +2465,6 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "7e99bf657621"
-    },
-    {
-      "id": "cf007053bf40",
-      "topic": "sports",
-      "title": "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
-      "snippet": "The Indian bowlers didn’t have too many wickets to show for their effort but they were once again impressive in the last five overs giving away only 52 runs",
-      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-third-twenty20-international-in-wellington/article71630144.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-10-27T11:22:05.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "cf007053bf40"
     },
     {
       "id": "f61fd008c010",
@@ -2493,6 +2507,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "21b72d26ba9b"
+    },
+    {
+      "id": "a951452c6d7e",
+      "topic": "economics",
+      "title": "The survival of American democracy depends on taxing billionaires",
+      "snippet": "It is essential not just to fund the public goods the nation needs, it is indispensable to restore a sense of fairness Money doesn’t buy happiness, we’re told. Even some economists agree. The Nobel prize-winning…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T11:00:36.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "a951452c6d7e"
     },
     {
       "id": "bfb014ab389e",
@@ -3489,6 +3517,20 @@
       "clusterId": "6ec84208cb53"
     },
     {
+      "id": "fed7fc9be1a3",
+      "topic": "entertainment",
+      "title": "John Oliver on extremism and bigotry among Republicans: ‘This party is at a crossroads’",
+      "snippet": "Last Week Tonight host looked into the rise of bigotry and neo-nazism within the party before critical midterm races With just a week to go until the US midterm elections , John Oliver used the entirety of his latest…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/john-oliver-last-week-tonight-midterms-republicans",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-26T16:30:08.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "fed7fc9be1a3"
+    },
+    {
       "id": "178c42b4d7f0",
       "topic": "technology",
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -3671,6 +3713,34 @@
       "clusterId": "863a44908012"
     },
     {
+      "id": "6333a388ac31",
+      "topic": "economics",
+      "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "snippet": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or…",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-26T11:30:40.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "6333a388ac31"
+    },
+    {
+      "id": "a6807bfb914a",
+      "topic": "economics",
+      "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+      "snippet": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under Trump With the midterm elections fast approaching, many Americans have the economy on their minds. US voters…",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-26T11:00:42.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "a6807bfb914a"
+    },
+    {
       "id": "91f2080ad8a0",
       "topic": "movies",
       "title": "Bad Day at the Office review – gratuitously entertaining Go-Pro thriller is like Crank meets The Hangover",
@@ -3685,6 +3755,20 @@
       "clusterId": "91f2080ad8a0"
     },
     {
+      "id": "d2de8a108408",
+      "topic": "economics",
+      "title": "Should we tip on takeout? We weighed all angles and the answer is …",
+      "snippet": "Adding gratuity doesn’t always make sense, but the obligation to has been entrenched as a societal norm You arrive at a pizza place to pick up your order. The credit-card screen asks if you would like to tip and gives…",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/26/tipping-etiquette-takeout-food-delivery",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-26T11:00:41.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "d2de8a108408"
+    },
+    {
       "id": "7b2f3337c5e0",
       "topic": "economics",
       "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
@@ -3697,6 +3781,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "7b2f3337c5e0"
+    },
+    {
+      "id": "1fc158ac434d",
+      "topic": "economics",
+      "title": "European gas prices soar to four-year high over winter supply fears",
+      "snippet": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the…",
+      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-26T10:35:24.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "1fc158ac434d"
     },
     {
       "id": "496be01d2415",
@@ -3965,6 +4063,20 @@
       "clusterId": "6149b0e5dcd7"
     },
     {
+      "id": "a4dafb4ffd3d",
+      "topic": "economics",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "snippet": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US…",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-25T13:43:19.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "a4dafb4ffd3d"
+    },
+    {
       "id": "a47d40e6b676",
       "topic": "economics",
       "title": "Netflix lays off 6% of workforce amidst slowing growth",
@@ -4005,20 +4117,6 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "63766381d395"
-    },
-    {
-      "id": "177ee20d9810",
-      "topic": "economics",
-      "title": "Budget to include £1bn for social and affordable housing",
-      "snippet": "The move will take funding for the 10-year programme to more than £40bn.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o",
-      "sourceId": "bbc-business",
-      "publisher": "BBC News",
-      "country": "GB",
-      "published": "2026-10-25T10:03:17.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "177ee20d9810"
     },
     {
       "id": "d256634beeae",
@@ -4077,20 +4175,6 @@
       "clusterId": "55f01b493b3d"
     },
     {
-      "id": "f06838f075fd",
-      "topic": "economics",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "snippet": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
-      "sourceId": "bbc-business",
-      "publisher": "BBC News",
-      "country": "GB",
-      "published": "2026-10-25T07:15:38.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "f06838f075fd"
-    },
-    {
       "id": "7b52082e104f",
       "topic": "technology",
       "title": "Cookie theft: how fraudsters get the digital key to your accounts",
@@ -4133,20 +4217,6 @@
       "clusterId": "a67880afff42"
     },
     {
-      "id": "2f73099fcc5c",
-      "topic": "economics",
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "snippet": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-24T21:20:55.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "2f73099fcc5c"
-    },
-    {
       "id": "c8555b1b5931",
       "topic": "science",
       "title": "The BoM’s temperature record keeping is under attack – again. What’s going on? | Temperature Check",
@@ -4173,20 +4243,6 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "3e84405d4990"
-    },
-    {
-      "id": "9eb0982f2618",
-      "topic": "economics",
-      "title": "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
-      "snippet": "A management consultant is going viral after he started sharing cringe-worthy anonymous DMs employees get from bosses. Like, ones they get on their wedding day and worse.",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-24T11:42:12.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "9eb0982f2618"
     },
     {
       "id": "9cef2d00c5b5",
@@ -4385,6 +4441,20 @@
       "clusterId": "52e0f1d40c8a"
     },
     {
+      "id": "beda7b5f8d99",
+      "topic": "entertainment",
+      "title": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
+      "snippet": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye The creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-23T14:33:52.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "beda7b5f8d99"
+    },
+    {
       "id": "99786a195b7f",
       "topic": "animals",
       "title": "Counting crows (and cockatoos, and kookaburras): BirdLife Australia’s Aussie bird count takes flight for 2026",
@@ -4411,6 +4481,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "b2917dd007e7"
+    },
+    {
+      "id": "468879e6f596",
+      "topic": "entertainment",
+      "title": "‘I always think my head will fall off when Traitors turn on each other’: the inside story of the world’s biggest TV show",
+      "snippet": "Celia’s guffs, Richard’s gaffes, Claudia’s glorious knitwear – The Traitors has become the most successful show on the planet. The creators and the queen of the castle herself talk exploding pirate ships, becoming evil…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/23/traitors-bbc-making-of-inside-story-worlds-biggest-tv-show",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-23T12:00:26.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "468879e6f596"
     },
     {
       "id": "a16499f23ad1",
@@ -4453,20 +4537,6 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "1f343b2ba5fc"
-    },
-    {
-      "id": "bb540fbc012c",
-      "topic": "economics",
-      "title": "Why Meta is charging to post more hyperlinks",
-      "snippet": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What's the rationale for…",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-23T11:00:00.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "bb540fbc012c"
     },
     {
       "id": "a30c6def41f9",
@@ -4539,20 +4609,6 @@
       "clusterId": "e96d028c720d"
     },
     {
-      "id": "c5d2196db11e",
-      "topic": "economics",
-      "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
-      "snippet": "Young candidates who rent or live with parents say their generation is \"in the thick\" of the country's housing affordability crisis. They argue this gives them new energy to solve it for everyone.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-23T09:00:00.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "c5d2196db11e"
-    },
-    {
       "id": "b715327ed853",
       "topic": "technology",
       "title": "Tech stocks dropped sharply. What it means for the rest of the economy",
@@ -4621,6 +4677,20 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "8ff4f3d38227"
+    },
+    {
+      "id": "2af34a88de64",
+      "topic": "finance",
+      "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
+      "snippet": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk…",
+      "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-23T07:00:03.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "2af34a88de64"
     },
     {
       "id": "73001e812e2f",
@@ -4917,6 +4987,48 @@
       "clusterId": "ef15dfbf6e09"
     },
     {
+      "id": "82b1628cf8fb",
+      "topic": "entertainment",
+      "title": "Glee’s pro-LGBTQ+ vision captured 2010s hope. Can a reboot handle Trump’s America? | Alim Kheraj",
+      "snippet": "The beloved high school TV show is returning in a different political climate. I’m skeptical that Ryan Murphy has the nuance this moment needs For months, Ryan Murphy has been discussing Glee . In July, he expressed…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/glee-reboot-lgbtq-politics-trump",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-22T14:45:40.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "82b1628cf8fb"
+    },
+    {
+      "id": "a3ac6fec4fd0",
+      "topic": "entertainment",
+      "title": "Seth Meyers on JD Vance: ‘The integrity of a used-car salesman and the charisma of a wet ham’",
+      "snippet": "Late-night hosts discussed Trump’s seeming cognitive decline and Vance’s rock-bottom approval ratings Late-night hosts recapped a tough couple of days for the Oval Office, as Donald Trump waved to an imaginary crowd…",
+      "url": "https://www.theguardian.com/culture/2026/oct/22/late-night-seth-meyers-jd-vance",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-22T14:43:54.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "a3ac6fec4fd0"
+    },
+    {
+      "id": "46f4dc360a15",
+      "topic": "finance",
+      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "snippet": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by…",
+      "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "sourceId": "guardian-business",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-22T14:39:29.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "46f4dc360a15"
+    },
+    {
       "id": "cf3f18d9680c",
       "topic": "music",
       "title": "Amy Winehouse: Back to Black 20 review – trying an all-star Amy tribute show is a losing game",
@@ -4959,18 +5071,32 @@
       "clusterId": "1a51e90606f8"
     },
     {
+      "id": "bb91ef78ceb8",
+      "topic": "technology",
+      "title": "‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
+      "snippet": "The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonathan Glatzer wanted the tagline…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment",
+      "sourceId": "guardian-technology",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-22T12:34:33.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "bb91ef78ceb8"
+    },
+    {
       "id": "6d25154a6872",
-      "topic": "science",
+      "topic": "technology",
       "title": "Why we’re still so obsessed with Elizabeth Holmes - video",
       "snippet": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted…",
       "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
-      "sourceId": "guardian-science",
+      "sourceId": "guardian-technology",
       "publisher": "The Guardian",
       "country": "GB",
       "published": "2026-10-22T12:14:36.000Z",
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
-      "clusterId": "653f42f00da3"
+      "clusterId": "6d25154a6872"
     },
     {
       "id": "ee66c3d71823",
@@ -5015,20 +5141,6 @@
       "clusterId": "53cb2b970434"
     },
     {
-      "id": "985e951ed9a9",
-      "topic": "technology",
-      "title": "'500 new vulnerabilities' found in government, says AI minister",
-      "snippet": "",
-      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po",
-      "sourceId": "bbc-technology",
-      "publisher": "BBC News",
-      "country": "GB",
-      "published": "2026-10-22T10:08:44.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "985e951ed9a9"
-    },
-    {
       "id": "432aaa725242",
       "topic": "music",
       "title": "John Anderson, five-time US country chart-topper, dies aged 71",
@@ -5041,20 +5153,6 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "432aaa725242"
-    },
-    {
-      "id": "edaa6f919be5",
-      "topic": "technology",
-      "title": "Achy from sitting at a desk all day? Try doing this",
-      "snippet": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-      "sourceId": "npr-technology",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-22T09:01:00.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "edaa6f919be5"
     },
     {
       "id": "53d65475ee41",
@@ -5281,6 +5379,20 @@
       "clusterId": "bee7271db7c2"
     },
     {
+      "id": "dc56db9c705d",
+      "topic": "entertainment",
+      "title": "The New Stanford Prison Experiment review – surely no one believes this insulting TV show is real?",
+      "snippet": "This rehash of the notorious study in which volunteers role-play as prisoners and guards pretends to be science. It isn’t – it’s patronising reality television Television has rerun the Stanford prison experiment…",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-new-stanford-prison-experiment-review-netflix",
+      "sourceId": "guardian-tv",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-21T07:01:03.000Z",
+      "firstSeen": "2026-10-27T22:49:42.519Z",
+      "singleSource": true,
+      "clusterId": "dc56db9c705d"
+    },
+    {
       "id": "95a9483350f6",
       "topic": "movies",
       "title": "Ghosts: The Possession of Button House review – new levels of giddiness unleashed in spooky spin-off",
@@ -5297,6 +5409,20 @@
   ],
   "clusters": [
     {
+      "id": "142764f66840",
+      "topic": "geopolitics",
+      "leadId": "142764f66840",
+      "storyIds": [
+        "142764f66840"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:40:27.000Z"
+    },
+    {
       "id": "7fbcc354b100",
       "topic": "geopolitics",
       "leadId": "7fbcc354b100",
@@ -5308,7 +5434,7 @@
       ],
       "independentSources": 1,
       "multiSource": false,
-      "latest": "2026-10-27T22:39:37.000Z"
+      "latest": "2026-10-27T22:40:17.000Z"
     },
     {
       "id": "cf9b0941943d",
@@ -5339,19 +5465,18 @@
       "latest": "2026-10-27T22:34:33.000Z"
     },
     {
-      "id": "a503a39a14ba",
+      "id": "bcc76393f0bd",
       "topic": "geopolitics",
-      "leadId": "a503a39a14ba",
+      "leadId": "bcc76393f0bd",
       "storyIds": [
-        "a503a39a14ba",
+        "bcc76393f0bd",
         "c39d9268163d"
       ],
       "publishers": [
-        "Al Jazeera",
         "The Guardian"
       ],
-      "independentSources": 2,
-      "multiSource": true,
+      "independentSources": 1,
+      "multiSource": false,
       "latest": "2026-10-27T22:33:05.000Z"
     },
     {
@@ -5395,6 +5520,34 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T22:29:40.000Z"
+    },
+    {
+      "id": "db21c104226c",
+      "topic": "geopolitics",
+      "leadId": "db21c104226c",
+      "storyIds": [
+        "db21c104226c"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:29:31.000Z"
+    },
+    {
+      "id": "8c48ead151f8",
+      "topic": "sports",
+      "leadId": "8c48ead151f8",
+      "storyIds": [
+        "8c48ead151f8"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:26:05.000Z"
     },
     {
       "id": "adb1d5237e96",
@@ -5583,20 +5736,6 @@
       "latest": "2026-10-27T21:09:12.000Z"
     },
     {
-      "id": "bcc76393f0bd",
-      "topic": "geopolitics",
-      "leadId": "bcc76393f0bd",
-      "storyIds": [
-        "bcc76393f0bd"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T20:56:23.000Z"
-    },
-    {
       "id": "c65090d07e0c",
       "topic": "economics",
       "leadId": "c65090d07e0c",
@@ -5753,6 +5892,20 @@
       "independentSources": 2,
       "multiSource": true,
       "latest": "2026-10-27T20:21:00.000Z"
+    },
+    {
+      "id": "a503a39a14ba",
+      "topic": "geopolitics",
+      "leadId": "a503a39a14ba",
+      "storyIds": [
+        "a503a39a14ba"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T20:18:18.000Z"
     },
     {
       "id": "af04881b867b",
@@ -6598,34 +6751,6 @@
       "latest": "2026-10-27T16:59:23.000Z"
     },
     {
-      "id": "d723a0f9ad08",
-      "topic": "geopolitics",
-      "leadId": "d723a0f9ad08",
-      "storyIds": [
-        "d723a0f9ad08"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T16:52:56.000Z"
-    },
-    {
-      "id": "aff85c595d4b",
-      "topic": "geopolitics",
-      "leadId": "aff85c595d4b",
-      "storyIds": [
-        "aff85c595d4b"
-      ],
-      "publishers": [
-        "Deutsche Welle"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T16:49:00.000Z"
-    },
-    {
       "id": "c5cc55736e5f",
       "topic": "entertainment",
       "leadId": "c5cc55736e5f",
@@ -6722,6 +6847,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T16:20:06.000Z"
+    },
+    {
+      "id": "f3a6666a4d44",
+      "topic": "sports",
+      "leadId": "f3a6666a4d44",
+      "storyIds": [
+        "f3a6666a4d44"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T15:59:03.000Z"
     },
     {
       "id": "777e11348bf3",
@@ -6932,6 +7071,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T15:12:57.000Z"
+    },
+    {
+      "id": "b7c387f15341",
+      "topic": "entertainment",
+      "leadId": "b7c387f15341",
+      "storyIds": [
+        "b7c387f15341"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T15:04:17.000Z"
     },
     {
       "id": "b20624c245b8",
@@ -7510,6 +7663,20 @@
       "latest": "2026-10-27T12:22:57.000Z"
     },
     {
+      "id": "214509ee2041",
+      "topic": "sports",
+      "leadId": "214509ee2041",
+      "storyIds": [
+        "214509ee2041"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T12:21:15.000Z"
+    },
+    {
       "id": "f05c0883b58c",
       "topic": "sports",
       "leadId": "f05c0883b58c",
@@ -7580,20 +7747,6 @@
       "latest": "2026-10-27T11:54:47.000Z"
     },
     {
-      "id": "5c0f4443de90",
-      "topic": "sports",
-      "leadId": "5c0f4443de90",
-      "storyIds": [
-        "5c0f4443de90"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T11:35:37.000Z"
-    },
-    {
       "id": "67c635ca2f1c",
       "topic": "finance",
       "leadId": "67c635ca2f1c",
@@ -7608,20 +7761,6 @@
       "latest": "2026-10-27T11:33:58.000Z"
     },
     {
-      "id": "6289a3f35caa",
-      "topic": "sports",
-      "leadId": "6289a3f35caa",
-      "storyIds": [
-        "6289a3f35caa"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T11:32:28.000Z"
-    },
-    {
       "id": "7e99bf657621",
       "topic": "entertainment",
       "leadId": "7e99bf657621",
@@ -7634,20 +7773,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T11:23:19.000Z"
-    },
-    {
-      "id": "cf007053bf40",
-      "topic": "sports",
-      "leadId": "cf007053bf40",
-      "storyIds": [
-        "cf007053bf40"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T11:22:05.000Z"
     },
     {
       "id": "f61fd008c010",
@@ -7690,6 +7815,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T11:00:37.000Z"
+    },
+    {
+      "id": "a951452c6d7e",
+      "topic": "economics",
+      "leadId": "a951452c6d7e",
+      "storyIds": [
+        "a951452c6d7e"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T11:00:36.000Z"
     },
     {
       "id": "bfb014ab389e",
@@ -8688,6 +8827,20 @@
       "latest": "2026-10-26T18:00:16.000Z"
     },
     {
+      "id": "fed7fc9be1a3",
+      "topic": "entertainment",
+      "leadId": "fed7fc9be1a3",
+      "storyIds": [
+        "fed7fc9be1a3"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-26T16:30:08.000Z"
+    },
+    {
       "id": "178c42b4d7f0",
       "topic": "technology",
       "leadId": "178c42b4d7f0",
@@ -8856,11 +9009,53 @@
       "latest": "2026-10-26T12:00:41.000Z"
     },
     {
+      "id": "6333a388ac31",
+      "topic": "economics",
+      "leadId": "6333a388ac31",
+      "storyIds": [
+        "6333a388ac31"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-26T11:30:40.000Z"
+    },
+    {
+      "id": "a6807bfb914a",
+      "topic": "economics",
+      "leadId": "a6807bfb914a",
+      "storyIds": [
+        "a6807bfb914a"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-26T11:00:42.000Z"
+    },
+    {
       "id": "91f2080ad8a0",
       "topic": "movies",
       "leadId": "91f2080ad8a0",
       "storyIds": [
         "91f2080ad8a0"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-26T11:00:41.000Z"
+    },
+    {
+      "id": "d2de8a108408",
+      "topic": "economics",
+      "leadId": "d2de8a108408",
+      "storyIds": [
+        "d2de8a108408"
       ],
       "publishers": [
         "The Guardian"
@@ -8882,6 +9077,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-26T10:48:46.000Z"
+    },
+    {
+      "id": "1fc158ac434d",
+      "topic": "economics",
+      "leadId": "1fc158ac434d",
+      "storyIds": [
+        "1fc158ac434d"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-26T10:35:24.000Z"
     },
     {
       "id": "496be01d2415",
@@ -9136,6 +9345,20 @@
       "latest": "2026-10-25T14:00:05.000Z"
     },
     {
+      "id": "a4dafb4ffd3d",
+      "topic": "economics",
+      "leadId": "a4dafb4ffd3d",
+      "storyIds": [
+        "a4dafb4ffd3d"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-25T13:43:19.000Z"
+    },
+    {
       "id": "a47d40e6b676",
       "topic": "economics",
       "leadId": "a47d40e6b676",
@@ -9176,20 +9399,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-25T11:00:03.000Z"
-    },
-    {
-      "id": "177ee20d9810",
-      "topic": "economics",
-      "leadId": "177ee20d9810",
-      "storyIds": [
-        "177ee20d9810"
-      ],
-      "publishers": [
-        "BBC News"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-25T10:03:17.000Z"
     },
     {
       "id": "d256634beeae",
@@ -9248,20 +9457,6 @@
       "latest": "2026-10-25T09:00:58.000Z"
     },
     {
-      "id": "f06838f075fd",
-      "topic": "economics",
-      "leadId": "f06838f075fd",
-      "storyIds": [
-        "f06838f075fd"
-      ],
-      "publishers": [
-        "BBC News"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-25T07:15:38.000Z"
-    },
-    {
       "id": "7b52082e104f",
       "topic": "technology",
       "leadId": "7b52082e104f",
@@ -9304,20 +9499,6 @@
       "latest": "2026-10-24T23:05:41.000Z"
     },
     {
-      "id": "2f73099fcc5c",
-      "topic": "economics",
-      "leadId": "2f73099fcc5c",
-      "storyIds": [
-        "2f73099fcc5c"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-24T21:20:55.000Z"
-    },
-    {
       "id": "c8555b1b5931",
       "topic": "science",
       "leadId": "c8555b1b5931",
@@ -9344,20 +9525,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-24T16:03:25.000Z"
-    },
-    {
-      "id": "9eb0982f2618",
-      "topic": "economics",
-      "leadId": "9eb0982f2618",
-      "storyIds": [
-        "9eb0982f2618"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-24T11:42:12.000Z"
     },
     {
       "id": "9cef2d00c5b5",
@@ -9556,6 +9723,20 @@
       "latest": "2026-10-23T14:44:48.000Z"
     },
     {
+      "id": "beda7b5f8d99",
+      "topic": "entertainment",
+      "leadId": "beda7b5f8d99",
+      "storyIds": [
+        "beda7b5f8d99"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-23T14:33:52.000Z"
+    },
+    {
       "id": "99786a195b7f",
       "topic": "animals",
       "leadId": "99786a195b7f",
@@ -9582,6 +9763,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-23T12:24:17.000Z"
+    },
+    {
+      "id": "468879e6f596",
+      "topic": "entertainment",
+      "leadId": "468879e6f596",
+      "storyIds": [
+        "468879e6f596"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-23T12:00:26.000Z"
     },
     {
       "id": "a16499f23ad1",
@@ -9624,20 +9819,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-23T11:00:32.000Z"
-    },
-    {
-      "id": "bb540fbc012c",
-      "topic": "economics",
-      "leadId": "bb540fbc012c",
-      "storyIds": [
-        "bb540fbc012c"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-23T11:00:00.000Z"
     },
     {
       "id": "a30c6def41f9",
@@ -9710,20 +9891,6 @@
       "latest": "2026-10-23T09:00:05.000Z"
     },
     {
-      "id": "c5d2196db11e",
-      "topic": "economics",
-      "leadId": "c5d2196db11e",
-      "storyIds": [
-        "c5d2196db11e"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-23T09:00:00.000Z"
-    },
-    {
       "id": "b715327ed853",
       "topic": "technology",
       "leadId": "b715327ed853",
@@ -9792,6 +9959,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-23T07:30:03.000Z"
+    },
+    {
+      "id": "2af34a88de64",
+      "topic": "finance",
+      "leadId": "2af34a88de64",
+      "storyIds": [
+        "2af34a88de64"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-23T07:00:03.000Z"
     },
     {
       "id": "73001e812e2f",
@@ -10088,6 +10269,48 @@
       "latest": "2026-10-22T14:53:35.000Z"
     },
     {
+      "id": "82b1628cf8fb",
+      "topic": "entertainment",
+      "leadId": "82b1628cf8fb",
+      "storyIds": [
+        "82b1628cf8fb"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-22T14:45:40.000Z"
+    },
+    {
+      "id": "a3ac6fec4fd0",
+      "topic": "entertainment",
+      "leadId": "a3ac6fec4fd0",
+      "storyIds": [
+        "a3ac6fec4fd0"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-22T14:43:54.000Z"
+    },
+    {
+      "id": "46f4dc360a15",
+      "topic": "finance",
+      "leadId": "46f4dc360a15",
+      "storyIds": [
+        "46f4dc360a15"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-22T14:39:29.000Z"
+    },
+    {
       "id": "cf3f18d9680c",
       "topic": "music",
       "leadId": "cf3f18d9680c",
@@ -10130,11 +10353,24 @@
       "latest": "2026-10-22T13:00:05.000Z"
     },
     {
-      "id": "653f42f00da3",
-      "topic": "science",
-      "leadId": "653f42f00da3",
+      "id": "bb91ef78ceb8",
+      "topic": "technology",
+      "leadId": "bb91ef78ceb8",
       "storyIds": [
-        "653f42f00da3",
+        "bb91ef78ceb8"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-22T12:34:33.000Z"
+    },
+    {
+      "id": "6d25154a6872",
+      "topic": "technology",
+      "leadId": "6d25154a6872",
+      "storyIds": [
         "6d25154a6872"
       ],
       "publishers": [
@@ -10187,20 +10423,6 @@
       "latest": "2026-10-22T10:17:26.000Z"
     },
     {
-      "id": "985e951ed9a9",
-      "topic": "technology",
-      "leadId": "985e951ed9a9",
-      "storyIds": [
-        "985e951ed9a9"
-      ],
-      "publishers": [
-        "BBC News"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-22T10:08:44.000Z"
-    },
-    {
       "id": "432aaa725242",
       "topic": "music",
       "leadId": "432aaa725242",
@@ -10213,20 +10435,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-22T09:45:22.000Z"
-    },
-    {
-      "id": "edaa6f919be5",
-      "topic": "technology",
-      "leadId": "edaa6f919be5",
-      "storyIds": [
-        "edaa6f919be5"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-22T09:01:00.000Z"
     },
     {
       "id": "53d65475ee41",
@@ -10325,6 +10533,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-22T04:10:06.000Z"
+    },
+    {
+      "id": "653f42f00da3",
+      "topic": "science",
+      "leadId": "653f42f00da3",
+      "storyIds": [
+        "653f42f00da3"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-22T04:00:06.000Z"
     },
     {
       "id": "ec85a7e908be",
@@ -10437,6 +10659,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-21T09:00:00.000Z"
+    },
+    {
+      "id": "dc56db9c705d",
+      "topic": "entertainment",
+      "leadId": "dc56db9c705d",
+      "storyIds": [
+        "dc56db9c705d"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-21T07:01:03.000Z"
     },
     {
       "id": "95a9483350f6",
