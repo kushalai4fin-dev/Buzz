@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-10-27T22:49:33.995Z",
+  "generatedAt": "2026-10-27T22:53:17.332Z",
   "demo": false,
   "stories": [
+    {
+      "id": "bd57df7ea69a",
+      "topic": "sports",
+      "title": "Fleetwood Town stun Arsenal on penalties: Carabao Cup fourth round – live",
+      "snippet": "⚽ League Cup last-16 tie ends 1-1 after 90 minutes ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to make changes, with the champions in town. But…",
+      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-10-27T22:43:10.000Z",
+      "firstSeen": "2026-10-27T22:49:33.995Z",
+      "singleSource": true,
+      "clusterId": "bd57df7ea69a"
+    },
     {
       "id": "7fbcc354b100",
       "topic": "geopolitics",
@@ -85,20 +99,6 @@
       "firstSeen": "2026-10-27T22:49:33.995Z",
       "singleSource": true,
       "clusterId": "e938c38a6807"
-    },
-    {
-      "id": "bd57df7ea69a",
-      "topic": "sports",
-      "title": "Fleetwood Town stun Arsenal on penalties: Carabao Cup fourth round – live",
-      "snippet": "⚽ League Cup last-16 tie ends 1-1 after 90 minutes ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to make changes, with the champions in town. But…",
-      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-10-27T22:29:40.000Z",
-      "firstSeen": "2026-10-27T22:49:33.995Z",
-      "singleSource": true,
-      "clusterId": "bd57df7ea69a"
     },
     {
       "id": "1d9a88889f65",
@@ -5297,6 +5297,20 @@
   ],
   "clusters": [
     {
+      "id": "bd57df7ea69a",
+      "topic": "sports",
+      "leadId": "bd57df7ea69a",
+      "storyIds": [
+        "bd57df7ea69a"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-10-27T22:43:10.000Z"
+    },
+    {
       "id": "7fbcc354b100",
       "topic": "geopolitics",
       "leadId": "7fbcc354b100",
@@ -5381,20 +5395,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-27T22:30:36.000Z"
-    },
-    {
-      "id": "bd57df7ea69a",
-      "topic": "sports",
-      "leadId": "bd57df7ea69a",
-      "storyIds": [
-        "bd57df7ea69a"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-27T22:29:40.000Z"
     },
     {
       "id": "adb1d5237e96",
