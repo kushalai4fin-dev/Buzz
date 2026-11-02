@@ -1,34 +1,1168 @@
 {
-  "generatedAt": "2026-11-01T18:32:50.346Z",
+  "generatedAt": "2026-11-02T00:47:39.182Z",
   "demo": false,
   "stories": [
     {
+      "id": "ff254917f921",
+      "topic": "technology",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "snippet": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+      "sourceId": "bbc-technology",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-02T00:43:35.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "ff254917f921"
+    },
+    {
+      "id": "3ecbd769a2f2",
+      "topic": "geopolitics",
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "snippet": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-02T00:29:16.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "3ecbd769a2f2"
+    },
+    {
+      "id": "96d758e187be",
+      "topic": "sports",
+      "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+      "snippet": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-02T00:28:28.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "96d758e187be"
+    },
+    {
+      "id": "7f4eb073c474",
+      "topic": "geopolitics",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "snippet": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do",
+      "sourceId": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-02T00:25:12.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "7f4eb073c474"
+    },
+    {
+      "id": "9cf6a04116c0",
+      "topic": "geopolitics",
+      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+      "snippet": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike Rogers Donald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-02T00:16:25.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "9cf6a04116c0"
+    },
+    {
+      "id": "10a5c4d6eaf4",
+      "topic": "geopolitics",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "snippet": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+      "sourceId": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-02T00:15:30.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "3979c4821f57"
+    },
+    {
+      "id": "0fd5d085d5d0",
+      "topic": "geopolitics",
+      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+      "snippet": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’ Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-02T00:12:17.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "987480a1c2ea"
+    },
+    {
+      "id": "adbbd7b5f9c3",
+      "topic": "sports",
+      "title": "Lions shaken after All-Pro linebacker Jack Campbell taken to hospital with ‘scary’ neck injury",
+      "snippet": "26-year-old injured making tackle in fourth quarter Linebacker treated for nearly 10 minutes on field Detroit Lions linebacker Jack Campbell sustained a neck injury and was taken to a local ⁠hospital after being…",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/lions-shaken-after-all-pro-linebacker-jack-campbell-taken-to-hospital-with-scary-neck-injury",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-02T00:09:54.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6781be645360"
+    },
+    {
+      "id": "d2ca0678ae9c",
+      "topic": "geopolitics",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "snippet": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+      "sourceId": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-02T00:02:15.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "987480a1c2ea"
+    },
+    {
+      "id": "4f8bcd16a1e3",
+      "topic": "sports",
+      "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+      "snippet": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-02T00:00:21.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "4f8bcd16a1e3"
+    },
+    {
+      "id": "e357fd1c5c59",
+      "topic": "sports",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "snippet": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-02T00:00:03.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "e357fd1c5c59"
+    },
+    {
+      "id": "37c9fe5d7b4c",
+      "topic": "geopolitics",
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "snippet": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-02T00:00:00.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "37c9fe5d7b4c"
+    },
+    {
+      "id": "cee7de943194",
+      "topic": "sports",
+      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
+      "snippet": "Bellingham and Diomandé complete 3-0 win over Racing Lazio top Serie A after fighting back to beat Cagliari Kylian Mbappé moved on from a tumultuous week by scoring a penalty to help Real Madrid win 3-0 at Racing…",
+      "url": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T23:46:31.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "cee7de943194"
+    },
+    {
+      "id": "9bbc0ed4b174",
+      "topic": "economics",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "snippet": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
+      "sourceId": "bbc-business",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-01T23:34:49.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "9bbc0ed4b174"
+    },
+    {
+      "id": "6b751f0e86c3",
+      "topic": "sports",
+      "title": "‘He’s done an insane job’: Antonelli’s rivals unite in praise for F1’s youngest champion",
+      "snippet": "Lando Norris: ‘People are not giving him enough credit’ 20-year-old sealed F1 title after finishing third in Mexico Formula One’s leading drivers have been unstinting in their praise for the new champion, Kimi…",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/kimi-antonelli-world-champion-mexican-grand-prix-lando-norris-lewis-hamilton-max-verstappen",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T23:28:56.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6b751f0e86c3"
+    },
+    {
+      "id": "c773c7d1dd8f",
+      "topic": "geopolitics",
+      "title": "Why governors’ races are important in the 2026 US midterms",
+      "snippet": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T23:24:56.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "c773c7d1dd8f"
+    },
+    {
+      "id": "a43bd939362b",
+      "topic": "sports",
+      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+      "snippet": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T23:20:54.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6b81d8bf5c64"
+    },
+    {
+      "id": "c0ea4d934af5",
+      "topic": "geopolitics",
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "snippet": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T23:19:51.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "c0ea4d934af5"
+    },
+    {
+      "id": "9040291292d8",
+      "topic": "geopolitics",
+      "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
+      "snippet": "Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T23:05:05.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "9040291292d8"
+    },
+    {
+      "id": "6781be645360",
+      "topic": "sports",
+      "title": "Detroit linebacker Campbell taken to hospital with neck injury",
+      "snippet": "Jack Campbell was placed on a stretcher and carted off the pitch during the Detroit Lions' game on Sunday, before being taken to hospital.",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/ck9qz29w2p90o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T23:04:23.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6781be645360"
+    },
+    {
+      "id": "c1b9318605bd",
+      "topic": "sports",
+      "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+      "snippet": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T23:00:21.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "c1b9318605bd"
+    },
+    {
+      "id": "4de671ae787f",
+      "topic": "sports",
+      "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+      "snippet": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T22:50:05.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "4de671ae787f"
+    },
+    {
+      "id": "f9c4e9ef3bb7",
+      "topic": "sports",
+      "title": "Lifter Usha tops her 61kg group, Nirupama finishes disappointing 4th in Group C at World Championships",
+      "snippet": "Following the completion of Groups C and D, Usha was placed third overall while Nirupama was fifth",
+      "url": "https://www.thehindu.com/sport/lifter-usha-tops-her-61kg-group-nirupama-finishes-disappointing-4th-in-group-c-at-world-championships/article71654408.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T22:45:57.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "f9c4e9ef3bb7"
+    },
+    {
+      "id": "a1abb2b44c22",
+      "topic": "sports",
+      "title": "Mexican Formula One Grand Prix: Antonelli becomes youngest F1 champion as Verstappen wins – as it happened",
+      "snippet": "️ Report: Antonelli wins world championship at age of 20 ️ Antonelli claims the Formula One crown – his season in pictures Lap 4 of 71: Hamilton inquires as to what action is being taken. He’s assured that people are…",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T22:43:42.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6b81d8bf5c64"
+    },
+    {
+      "id": "1d0bfb3219ee",
+      "topic": "geopolitics",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "snippet": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "sourceId": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-01T22:38:24.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "1d0bfb3219ee"
+    },
+    {
+      "id": "fab922e7ae8a",
+      "topic": "geopolitics",
+      "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+      "snippet": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage A woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T22:37:36.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "fab922e7ae8a"
+    },
+    {
+      "id": "a76a7ae4bdcb",
+      "topic": "sports",
+      "title": "Marquez wins in Malaysia to stand on brink of MotoGP world title",
+      "snippet": "Marquez, who is now 44 points ahead of his closest rival Jorge Martin, has seven victories to his name this season",
+      "url": "https://www.thehindu.com/sport/motorsport/marquez-wins-in-malaysia-to-stand-on-brink-of-motogp-world-title/article71654403.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T22:36:26.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "a76a7ae4bdcb"
+    },
+    {
+      "id": "5a6c099c71d7",
+      "topic": "geopolitics",
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "snippet": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T22:32:54.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "5a6c099c71d7"
+    },
+    {
+      "id": "a5b3e5ea6f9c",
+      "topic": "geopolitics",
+      "title": "This legendary board game could take decades to complete",
+      "snippet": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+      "sourceId": "npr-world",
+      "publisher": "NPR",
+      "country": "US",
+      "published": "2026-11-01T22:30:00.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "a5b3e5ea6f9c"
+    },
+    {
+      "id": "0689de853e94",
+      "topic": "sports",
+      "title": "Antonelli heads list of F1's youngest champions",
+      "snippet": "As Kimi Antonelli becomes F1's youngest world champion, we look at how his achievement compares with some of the drivers who previously held the record.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjy56wkdk3nko",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T22:28:28.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6b81d8bf5c64"
+    },
+    {
+      "id": "6b81d8bf5c64",
+      "topic": "sports",
+      "title": "Kimi Antonelli becomes youngest F1 champion with third place in Mexican GP",
+      "snippet": "20-year-old clinches title with four races to go Verstappen wins race ahead of Hamilton Kimi Antonelli etched his name into the Formula One record books as world champion and as a deserved and popular winner whose…",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/kimi-antonelli-youngest-f1-champion-mexican-gp",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T22:27:23.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "6b81d8bf5c64"
+    },
+    {
+      "id": "2e3df1535eab",
+      "topic": "geopolitics",
+      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "snippet": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not…",
+      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T22:26:11.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "2e3df1535eab"
+    },
+    {
+      "id": "757a23938f9b",
+      "topic": "economics",
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "snippet": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o",
+      "sourceId": "bbc-business",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-01T22:25:51.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "757a23938f9b"
+    },
+    {
+      "id": "410a761ffc9f",
+      "topic": "sports",
+      "title": "How much do you know about F1 champion Antonelli?",
+      "snippet": "Kimi Antonelli has been crowned Formula 1 world champion - how well do you know the Mercedes driver?",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c98rzkv5y115o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T22:25:21.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "410a761ffc9f"
+    },
+    {
+      "id": "4fc8a5a21005",
+      "topic": "sports",
+      "title": "Antonelli - the boy 'born in a garage' who became world champion",
+      "snippet": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T22:25:01.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "4fc8a5a21005"
+    },
+    {
+      "id": "5c1a12d656f9",
+      "topic": "geopolitics",
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "snippet": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "sourceId": "npr-world",
+      "publisher": "NPR",
+      "country": "US",
+      "published": "2026-11-01T22:19:13.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "5c1a12d656f9"
+    },
+    {
+      "id": "d03f8787d866",
+      "topic": "sports",
+      "title": "Alcaraz beats De Minaur to win Vienna Open without dropping a set to clinch fourth title this year",
+      "snippet": "Carlos Alcaraz has beaten Alex de Minaur on grass and clay as well as on indoor and outdoor hard courts",
+      "url": "https://www.thehindu.com/sport/tennis/alcaraz-beats-de-minaur-to-win-vienna-open-without-dropping-a-set-to-clinch-fourth-title-this-year/article71654400.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T22:16:58.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "d03f8787d866"
+    },
+    {
+      "id": "66c9f884c135",
+      "topic": "geopolitics",
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "snippet": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T22:15:14.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "66c9f884c135"
+    },
+    {
+      "id": "29fce830b0da",
+      "topic": "sports",
+      "title": "ISL: Gritty Delhi rallies to beat Mumbai",
+      "snippet": "Carlos Fortes (73), Akshat Mehra (90+2) and Juan Pena (90+4) were on target for Delhi, which had trailed 0-2 at the break following goals from Muhammad Ajsal (6) and Zothanpuia (27)",
+      "url": "https://www.thehindu.com/sport/football/isl-gritty-delhi-rallies-to-beat-mumbai/article71654397.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T22:05:12.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "29fce830b0da"
+    },
+    {
+      "id": "a9d752ca0de3",
+      "topic": "sports",
+      "title": "NFL roundup: Cardinals’ comeback stuns Cowboys; Lamar Jackson’s season could be over",
+      "snippet": "Gardner Minshew’s heroics inspire Arizona Jackson needs surgery on injured thumb Chad Ryland kicked a winning 42-yard field goal in overtime after missing a PAT that would have won the game with six seconds left in…",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/nfl-roundup-sunday-football-scores",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T21:56:26.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "a9d752ca0de3"
+    },
+    {
+      "id": "2f8dc69a3315",
+      "topic": "geopolitics",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "snippet": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo",
+      "sourceId": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-01T21:55:01.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "2f8dc69a3315"
+    },
+    {
+      "id": "d02452dc0c5a",
+      "topic": "sports",
+      "title": "NFL week eight: Bills thrash Ravens, Steelers beat Browns, Lions edge Vikings – as it happened",
+      "snippet": "Lions hand Vikings their first loss with 19-15 win Ravens lose Lamar Jackson and Tyler Huntley to injury SACK! Vikings 0-0 Lions 9:28, 1st quarter The Lions are punting after a pair of sacks from Andrew van Ginkel and…",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/01/nfl-week-eight-ravens-v-bills-browns-v-steelers-vikings-v-lions-and-more-updates",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T21:45:52.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "d02452dc0c5a"
+    },
+    {
+      "id": "bb752061b792",
+      "topic": "sports",
+      "title": "Sindhu, Lakshya make it a double delight for India",
+      "snippet": "The former world champion Sindhu adds the Hylo Open to the Japan Open triumph earlier in the year and boosts her hopes of making the World Tour Finals while the latter ends his title drought in style",
+      "url": "https://www.thehindu.com/sport/sindhu-lakshya-make-it-a-double-delight-for-india/article71654391.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T21:39:00.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "bb752061b792"
+    },
+    {
+      "id": "9263396a5370",
+      "topic": "sports",
+      "title": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
+      "snippet": "Manager rues two dismissed penalty claims by referee Iraola complains ‘if you don’t go down, you don’t call it’ Andoni Iraola said he will instruct Liverpool players to go down in the box in future after Alexander Isak…",
+      "url": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T21:25:01.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "a4c5d62f582a"
+    },
+    {
+      "id": "ce8d70ecdc1c",
+      "topic": "geopolitics",
+      "title": "All nine people aboard business jet that crashed in Florida have died",
+      "snippet": "Aircraft had departed Austin-Bergstrom international airport and was headed to the Bahamas when it crashed All nine people have died who were aboard a business jet that crashed in a Florida neighborhood on Sunday, Sean…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T21:13:23.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "ce8d70ecdc1c"
+    },
+    {
+      "id": "0e51132cb989",
+      "topic": "sports",
+      "title": "Tribe unable to join England Lions after trip to Ebola-hit Kenya",
+      "snippet": "Glamorgan's Asa Tribe is barred from joining the England Lions squad in the West Indies because of a recent trip to Kenya.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6ly088gjw0eo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T21:06:07.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "0e51132cb989"
+    },
+    {
+      "id": "03edeb165633",
+      "topic": "geopolitics",
+      "title": "Canada PM Carney says he had good conversation with Trump on trade",
+      "snippet": "Canada and the United States have ⁠slapped billions of dollars in tariffs on each other in ‌recent months",
+      "url": "https://www.thehindu.com/news/international/canada-pm-carney-says-he-had-good-conversation-with-trump-on-trade/article71654266.ece",
+      "sourceId": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T21:02:54.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "03edeb165633"
+    },
+    {
+      "id": "ecdababcbe78",
+      "topic": "geopolitics",
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "snippet": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T21:01:33.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "ecdababcbe78"
+    },
+    {
+      "id": "731a9e9b1c86",
+      "topic": "geopolitics",
+      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+      "snippet": "Stevens’s endorsement of Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T21:00:52.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "731a9e9b1c86"
+    },
+    {
+      "id": "a4c5d62f582a",
+      "topic": "sports",
+      "title": "I'll tell my players to dive in future - Iraola",
+      "snippet": "Andoni Iraola says that he will tell his players to go down in future after Liverpool were denied a penalty in Sunday's defeat by Arsenal.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T21:00:26.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "a4c5d62f582a"
+    },
+    {
+      "id": "e0a740304524",
+      "topic": "geopolitics",
+      "title": "Teenage violinist wins BBC Young Musician 2026, after first all-female final",
+      "snippet": "Judges hail Sofia Demetriades’s performance of Tchaikovsky’s Violin Concerto as full of insights, poetry and maturity A teenage violinist has won the BBC Young Musician competition 2026, in the first all-female final…",
+      "url": "https://www.theguardian.com/music/2026/nov/01/bbc-young-musician-teenage-violinist-sofia-demetriades",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T21:00:21.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "e0a740304524"
+    },
+    {
+      "id": "87ee26c329f8",
+      "topic": "geopolitics",
+      "title": "Bulgarian President wins runoff election: exit polls",
+      "snippet": "The vote took place amid security concerns in the EU and NATO member states following a series of drone attacks on commercial vessels in the Black Sea",
+      "url": "https://www.thehindu.com/news/international/bulgarian-president-wins-runoff-election-exit-polls/article71654264.ece",
+      "sourceId": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T20:47:45.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "87ee26c329f8"
+    },
+    {
+      "id": "e389b87312f6",
+      "topic": "geopolitics",
+      "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
+      "snippet": "Acting President Iotova would become nation’s first elected female head of state if official results confirm her win.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T20:43:33.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "e389b87312f6"
+    },
+    {
+      "id": "1a3939e319fc",
+      "topic": "geopolitics",
+      "title": "Trump holds call with Netanyahu over state of Iran war: report",
+      "snippet": "The Israeli source described the call as “tough,” while the American source said it was “direct,” according to Axios",
+      "url": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+      "sourceId": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T20:35:58.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "1a3939e319fc"
+    },
+    {
+      "id": "9877efd2ac35",
+      "topic": "geopolitics",
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "snippet": "Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military standoff between Moscow and NATO.",
+      "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
+      "sourceId": "dw-all",
+      "publisher": "Deutsche Welle",
+      "country": "DE",
+      "published": "2026-11-01T20:34:00.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "9877efd2ac35"
+    },
+    {
+      "id": "b74764ff2069",
+      "topic": "sports",
+      "title": "Warnock hid seizures from Liverpool as a youngster",
+      "snippet": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster because he feared he would be released.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T20:32:44.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "b74764ff2069"
+    },
+    {
+      "id": "47d9e3d202db",
+      "topic": "geopolitics",
+      "title": "Israel elections chief says inquiry into irregularities will not undermine result",
+      "snippet": "The Shin Bet security agency launched the inquiry last week, at the elections chief’s request, to determine whether the Arab Israeli party Raam received money from Qatar — an accusation both the Gulf state and the…",
+      "url": "https://www.thehindu.com/news/international/israel-elections-chief-says-inquiry-into-irregularities-will-not-undermine-result/article71654256.ece",
+      "sourceId": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T20:20:59.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "47d9e3d202db"
+    },
+    {
+      "id": "192465635f46",
+      "topic": "sports",
+      "title": "WSL roundup: Arsenal stall despite Russo strike; Chelsea’s James suffers injury",
+      "snippet": "Arsenal salvage late 1-1 draw at home against Aston Villa Chelsea beat Charlton 6-0 but England ace goes off early One shot, on target and in the back of the net, was all it took for Aston Villa to reopen the wound…",
+      "url": "https://www.theguardian.com/football/2026/nov/01/wsl-roundup-arsenal-aston-villa-alessia-russo-renee-slegers",
+      "sourceId": "guardian-sport",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T20:17:13.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "192465635f46"
+    },
+    {
+      "id": "2e47ed997f1d",
+      "topic": "sports",
+      "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+      "snippet": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T20:16:46.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "2e47ed997f1d"
+    },
+    {
+      "id": "04b6dfd70c7a",
+      "topic": "sports",
+      "title": "Boy, 14, hands himself in to police over Bradley Lowery video",
+      "snippet": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were investigating a video appearing to show a fan taunting Sunderland supporters with a picture of Bradley Lowery.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T20:15:52.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "46b169fbe247"
+    },
+    {
+      "id": "17e1160779e4",
+      "topic": "geopolitics",
+      "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+      "snippet": "Incumbent Dan Sullivan says he will accept election results after ‘unprecedented intervention’ by Trump’s DoJ A judge has dismissed the Donald Trump-backed lawsuit seeking to block certification of Alaska’s US Senate…",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T20:10:27.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "9ed84b0560f2"
+    },
+    {
+      "id": "d09e41a41cee",
+      "topic": "geopolitics",
+      "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+      "snippet": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern…",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T20:02:57.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "d09e41a41cee"
+    },
+    {
+      "id": "906edfc4e6ff",
+      "topic": "sports",
+      "title": "Arsenal move clear at the top with a rare win at Liverpool",
+      "snippet": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T20:00:18.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "906edfc4e6ff"
+    },
+    {
+      "id": "d073721bf6d6",
+      "topic": "geopolitics",
+      "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+      "snippet": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandal Shabana Mahmood will announce sweeping new rules on Monday on how long legal migrants must wait for…",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+      "sourceId": "guardian-world",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T19:47:35.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "d073721bf6d6"
+    },
+    {
+      "id": "899e27e6510c",
+      "topic": "sports",
+      "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
+      "snippet": "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a penalty.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T19:37:44.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "899e27e6510c"
+    },
+    {
+      "id": "744b3c145f8c",
+      "topic": "science",
+      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+      "snippet": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday…",
+      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+      "sourceId": "guardian-science",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T19:36:46.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "744b3c145f8c"
+    },
+    {
+      "id": "5e433ae385ca",
+      "topic": "geopolitics",
+      "title": "U.S. mid-term elections: How officials are facing the heat",
+      "snippet": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
+      "url": "https://www.thehindu.com/opinion/op-ed/us-mid-term-elections-how-officials-are-facing-the-heat/article71653990.ece",
+      "sourceId": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T19:26:40.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "5e433ae385ca"
+    },
+    {
+      "id": "72a136600c6b",
+      "topic": "technology",
+      "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
+      "snippet": "ISRO needs more human and material resources to fulfil its mandate",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
+      "sourceId": "thehindu-scitech",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T19:23:27.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "72a136600c6b"
+    },
+    {
+      "id": "b014aa3c83ae",
+      "topic": "sports",
+      "title": "Arteta credits Fleetwood loss for spirited win at Anfield",
+      "snippet": "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T19:21:49.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "b014aa3c83ae"
+    },
+    {
+      "id": "73b04d67ffd4",
+      "topic": "geopolitics",
+      "title": "Dwindling support: On the U.S. and the Cuban embargo",
+      "snippet": "India and the world must stand up against the bullying of Cuba by the U.S.",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
+      "sourceId": "thehindu-international",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T19:16:50.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "73b04d67ffd4"
+    },
+    {
+      "id": "3f14586dbdfe",
+      "topic": "geopolitics",
+      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+      "snippet": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T18:58:23.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "3979c4821f57"
+    },
+    {
       "id": "d4774acae0f4",
       "topic": "sports",
-      "title": "Liverpool 0-1 Arsenal: Premier League – live reaction",
-      "snippet": "Updates from the match at Anfield (4.30pm GMT) Table | Top scorers | Email Daniel here So where is the game? Liverpool will look to get men around the ball when Arsenal have it, opening the pitch for switches should…",
+      "title": "Liverpool 0-1 Arsenal: Premier League – as it happened",
+      "snippet": "Kai Havertz’s goal was enough to give Arsenal their first win at Anfield since September 2012 and take them three points clear at the top of the table So where is the game? Liverpool will look to get men around the…",
       "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live",
       "sourceId": "guardian-sport",
       "publisher": "The Guardian",
       "country": "GB",
-      "published": "2026-11-01T18:26:27.000Z",
+      "published": "2026-11-01T18:55:34.000Z",
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
       "clusterId": "d4774acae0f4"
     },
     {
-      "id": "d02452dc0c5a",
+      "id": "bf9ba445487d",
+      "topic": "geopolitics",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "snippet": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo",
+      "sourceId": "bbc-world",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-01T18:51:56.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "bf9ba445487d"
+    },
+    {
+      "id": "987480a1c2ea",
+      "topic": "geopolitics",
+      "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+      "snippet": "Stevens, who lost the primary to Abdul El-Sayed, shifts support to his Republican opponent days before midterm election.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T18:51:07.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "987480a1c2ea"
+    },
+    {
+      "id": "ff99f26be71e",
       "topic": "sports",
-      "title": "NFL week eight: Ravens v Bills, Browns v Steelers, Vikings v Lions and more – live",
-      "snippet": "Unbeaten Minnesota v Detroit; Jackson v Allen in Buffalo Email Graham here SACK! Vikings 0-0 Lions 9:28, 1st quarter The Lions are punting after a pair of sacks from Andrew van Ginkel and Eric Wilson. Minnesota take…",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/01/nfl-week-eight-ravens-v-bills-browns-v-steelers-vikings-v-lions-and-more-updates",
+      "title": "Giant curiosity Hibs finally liberated from the sucker punch",
+      "snippet": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T18:45:49.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "ff99f26be71e"
+    },
+    {
+      "id": "9f0f4249f18e",
+      "topic": "sports",
+      "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+      "snippet": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. They headed back to London having made a statement. Irrespective of what…",
+      "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
       "sourceId": "guardian-sport",
       "publisher": "The Guardian",
       "country": "GB",
-      "published": "2026-11-01T18:25:15.000Z",
+      "published": "2026-11-01T18:44:48.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "9f0f4249f18e"
+    },
+    {
+      "id": "a3a3e22c9037",
+      "topic": "sports",
+      "title": "Asian Champions Trophy: Harmanpreet’s hat-trick helps India down Malaysia",
+      "snippet": "Japan and Korea join the two teams in the semifinals",
+      "url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-harmanpreets-hat-trick-helps-india-down-malaysia/article71653931.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T18:39:16.000Z",
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
-      "clusterId": "d02452dc0c5a"
+      "clusterId": "a3a3e22c9037"
+    },
+    {
+      "id": "7c2c62af1c2f",
+      "topic": "sports",
+      "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
+      "snippet": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T18:38:45.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "7c2c62af1c2f"
+    },
+    {
+      "id": "1a3b606141f2",
+      "topic": "sports",
+      "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
+      "snippet": "Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0 win against Racing Santander, moving only three points behind Barcelona at the top of La Liga.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o",
+      "sourceId": "bbc-sport",
+      "publisher": "BBC Sport",
+      "country": "GB",
+      "published": "2026-11-01T18:37:48.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "1a3b606141f2"
+    },
+    {
+      "id": "2d93e6ebb9ae",
+      "topic": "technology",
+      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+      "snippet": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside…",
+      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "sourceId": "guardian-technology",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T18:37:42.000Z",
+      "firstSeen": "2026-11-01T18:32:50.346Z",
+      "singleSource": true,
+      "clusterId": "2d93e6ebb9ae"
+    },
+    {
+      "id": "9ed84b0560f2",
+      "topic": "geopolitics",
+      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+      "snippet": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit",
+      "sourceId": "aljazeera-news",
+      "publisher": "Al Jazeera",
+      "country": "QA",
+      "published": "2026-11-01T18:37:37.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "9ed84b0560f2"
+    },
+    {
+      "id": "d9677428705a",
+      "topic": "sports",
+      "title": "Jensi’s leap and leap of faith",
+      "snippet": "The teenager makes World No. 287 Falkowska sweat for more than two hours",
+      "url": "https://www.thehindu.com/sport/tennis/jensis-leap-and-leap-of-faith/article71654202.ece",
+      "sourceId": "thehindu-sport",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T18:36:30.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "d9677428705a"
+    },
+    {
+      "id": "dbcc28af996e",
+      "topic": "music",
+      "title": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
+      "snippet": "US artist known as Model 500 and as one half of the duo Cybotron had huge influence on dance music worldwide Juan Atkins, one of the pioneers of Detroit techno and a huge influence on dance music more widely, has died…",
+      "url": "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64",
+      "sourceId": "guardian-music",
+      "publisher": "The Guardian",
+      "country": "GB",
+      "published": "2026-11-01T18:31:22.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "dbcc28af996e"
     },
     {
       "id": "7c09d77620f5",
@@ -70,21 +1204,7 @@
       "published": "2026-11-01T18:19:54.000Z",
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
-      "clusterId": "f85e887065aa"
-    },
-    {
-      "id": "17e1160779e4",
-      "topic": "geopolitics",
-      "title": "Judge dimisses lawsuit to block Alaska race certification if incumbent Dan Sullivan loses",
-      "snippet": "Trump had said he had ordered DoJ to file suit, in move termed ‘unprecedented intervention’ by experts A judge has dismissed the Donald Trump-backed lawsuit seeking to block certification of Alaska’s US Senate race if…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T18:12:23.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "17e1160779e4"
+      "clusterId": "7bd63480035b"
     },
     {
       "id": "f1a70ca666b6",
@@ -129,20 +1249,6 @@
       "clusterId": "5fbb6b8edab9"
     },
     {
-      "id": "cee7de943194",
-      "topic": "sports",
-      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
-      "snippet": "Bellingham and Diomandé complete 3-0 win over Racing Lazio top Serie A after fighting back to beat Cagliari Kylian Mbappé moved on from a tumultuous week by scoring a penalty to help Real Madrid win 3-0 at Racing…",
-      "url": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T17:55:23.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "cee7de943194"
-    },
-    {
       "id": "b3284a084191",
       "topic": "sports",
       "title": "Clinical Man City edge past London City in WSL thriller",
@@ -185,23 +1291,9 @@
       "clusterId": "17d074ce2b4c"
     },
     {
-      "id": "0fd5d085d5d0",
-      "topic": "geopolitics",
-      "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
-      "snippet": "Stevens lost the party’s Michigan primary by a close margin and had refused to endorse El-Sayed, with tensions between the two high Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul…",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T17:47:43.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "0fd5d085d5d0"
-    },
-    {
       "id": "dd60a5a8fd49",
       "topic": "geopolitics",
-      "title": "How Rachel Reeves has mapped out economic agenda for Andy Burnham’s government",
+      "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
       "snippet": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked her Reeves says UK’s future is in the EU Which senior politician has argued that “Brexit did deep damage” and that…",
       "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
       "sourceId": "guardian-world",
@@ -225,20 +1317,6 @@
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
       "clusterId": "6b15a3a88eb1"
-    },
-    {
-      "id": "a3a3e22c9037",
-      "topic": "sports",
-      "title": "Asian Champions Trophy: Harmanpreet’s hat-trick helps India down Malaysia",
-      "snippet": "Japan and Korea join India and Malaysia in the semifinals",
-      "url": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-harmanpreets-hat-trick-helps-india-down-malaysia/article71653931.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T17:41:19.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "a3a3e22c9037"
     },
     {
       "id": "99829d91da8c",
@@ -314,7 +1392,7 @@
       "id": "e6273547173a",
       "topic": "sports",
       "title": "Scottish roundup: Falkirk shock Celtic; Hibernian beat Hearts in semi-final",
-      "snippet": "Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a run of three wins in 10 games. The Scottish champions had the chance to extend their lead at the top of the…",
+      "snippet": "Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a…",
       "url": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
       "sourceId": "guardian-sport",
       "publisher": "The Guardian",
@@ -364,7 +1442,7 @@
       "published": "2026-11-01T17:16:00.000Z",
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
-      "clusterId": "727b9ed9a8f3"
+      "clusterId": "107181c4345d"
     },
     {
       "id": "f1af19067c73",
@@ -379,20 +1457,6 @@
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
       "clusterId": "f1af19067c73"
-    },
-    {
-      "id": "2d93e6ebb9ae",
-      "topic": "geopolitics",
-      "title": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
-      "snippet": "New electricity generating capacity would enable north-east to attract investment for major datacentre projects National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside…",
-      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T17:10:52.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "2d93e6ebb9ae"
     },
     {
       "id": "5a7c18124eff",
@@ -703,48 +1767,6 @@
       "clusterId": "3bde0cc0e7f1"
     },
     {
-      "id": "70dfebaa9cbe",
-      "topic": "geopolitics",
-      "title": "Five teenagers hurt in stabbing at Halloween party in Hampshire",
-      "snippet": "Police searching for ‘unknown group’ that gained entry to property in Chandler’s Ford on Saturday night Five teenage boys were stabbed at a Halloween party, after an “unknown group” gained entry to the event on a…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/01/teenagers-stabbing-halloween-party-hampshire",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T16:14:56.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "70dfebaa9cbe"
-    },
-    {
-      "id": "a307a79ddab0",
-      "topic": "geopolitics",
-      "title": "North Korea tests cluster-bomb warheads in latest weapons drill",
-      "snippet": "It also came against the backdrop of growing tensions over a landmine explosion along the heavily fortified border between the two Koreas that saw three South Korean soldiers wounded",
-      "url": "https://www.thehindu.com/news/international/north-korea-tests-cluster-bomb-warheads-in-latest-weapons-drill/article71653858.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T16:12:34.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "a307a79ddab0"
-    },
-    {
-      "id": "35cecf2e130b",
-      "topic": "geopolitics",
-      "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
-      "snippet": "Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll Thousands of opposition supporters have gathered in Delhi as protests against the Narendra Modi…",
-      "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T16:11:50.000Z",
-      "firstSeen": "2026-11-01T06:46:07.054Z",
-      "singleSource": true,
-      "clusterId": "35cecf2e130b"
-    },
-    {
       "id": "6000f8a145b3",
       "topic": "sports",
       "title": "‘We have effing unbreakable love’: how the maverick Natalie Nakase led the Valkyries to WNBA glory",
@@ -787,24 +1809,10 @@
       "clusterId": "31dd5386c2a7"
     },
     {
-      "id": "b08bce3a4ef0",
-      "topic": "geopolitics",
-      "title": "Iran warns new war could last longer after Trump threatens strikes",
-      "snippet": "Diplomatic efforts to end the West Asia war have been punctuated by repeated threats from the U.S. and Israel to resume bombardments as they hold crucial elections",
-      "url": "https://www.thehindu.com/news/international/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes/article71653794.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T16:04:22.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "b08bce3a4ef0"
-    },
-    {
       "id": "6177ac7a2a16",
       "topic": "sports",
       "title": "Borthwick urges England players to improve discipline at Nations Championship",
-      "snippet": "‘A big breakdown challenge coming,’ warns head coach Genge calls timing of ‘hip-drop’ tackle law change ‘beserk’ Steve Borthwick is urging his England players to act smarter and recognise the vital importance of…",
+      "snippet": "‘A big breakdown challenge is coming,’ warns head coach Genge calls timing of ‘hip-drop’ tackle law change ‘beserk’ Steve Borthwick is urging his England players to act smarter and recognise the vital importance of…",
       "url": "https://www.theguardian.com/sport/2026/nov/01/steve-borthwick-england-players-improve-discipline-before-nations-championships-rugby",
       "sourceId": "guardian-sport",
       "publisher": "The Guardian",
@@ -829,20 +1837,6 @@
       "clusterId": "0e6a3f5c3581"
     },
     {
-      "id": "d503618e7e49",
-      "topic": "geopolitics",
-      "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-      "snippet": "Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T15:50:19.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "d503618e7e49"
-    },
-    {
       "id": "744d8e49b403",
       "topic": "sports",
       "title": "Defeat for London City against Man City - but is Europe a real possibility?",
@@ -855,34 +1849,6 @@
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
       "clusterId": "744d8e49b403"
-    },
-    {
-      "id": "f086fc4a525c",
-      "topic": "geopolitics",
-      "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-      "snippet": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional…",
-      "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T15:44:28.000Z",
-      "firstSeen": "2026-11-01T00:46:00.821Z",
-      "singleSource": true,
-      "clusterId": "f086fc4a525c"
-    },
-    {
-      "id": "eed06119b58b",
-      "topic": "geopolitics",
-      "title": "John Healey says UK apology over historic role in slave trade won’t lead to financial reparations – as it happened",
-      "snippet": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’ At the end of his interview with Kuennsberg, Healey was also asked to comment on a potential…",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T15:43:40.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "eed06119b58b"
     },
     {
       "id": "6f4261b0ba56",
@@ -899,160 +1865,6 @@
       "clusterId": "6f4261b0ba56"
     },
     {
-      "id": "727b9ed9a8f3",
-      "topic": "geopolitics",
-      "title": "Serbia arrests police chief over abuse of office allegations",
-      "snippet": "Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T15:36:13.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "727b9ed9a8f3"
-    },
-    {
-      "id": "0aca4184c3fb",
-      "topic": "sports",
-      "title": "MRF Indian National Racing Challenge: Chiranth edges Sarthak, bags a double",
-      "snippet": "Coimbatore’s Senthil Kumar (Rockers Racing) and Anandhu from Chennai (Veedol C2 Racing) also completed a double apiece in the Super Stock 301-400cc Open and Super Stock 165cc Intermediate classes, respectively",
-      "url": "https://www.thehindu.com/sport/motorsport/mrf-indian-national-racing-challenge-chiranth-edges-sarthak-bags-a-double/article71653124.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T15:33:50.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "0aca4184c3fb"
-    },
-    {
-      "id": "f32c8cb6bfd2",
-      "topic": "sports",
-      "title": "Hardie clinches fifth gold as Scots win European Championship",
-      "snippet": "Grant Hardie claims a record-equalling fifth European Curling Championship gold after Scotland edge out Italy 6-5 in the final in the Czech Republic.",
-      "url": "https://www.bbc.co.uk/sport/articles/cwp8grl5xypjo",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T15:31:11.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "f32c8cb6bfd2"
-    },
-    {
-      "id": "88fbdfc578d8",
-      "topic": "geopolitics",
-      "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-      "snippet": "The UK PM's statement comes as Commonwealth nations meet in Antigua and Barbuda.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T15:24:08.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "88fbdfc578d8"
-    },
-    {
-      "id": "f4800237dee4",
-      "topic": "sports",
-      "title": "Spence 'very proud' to break WSL appearance record",
-      "snippet": "Tottenham midfielder Drew Spence says it is a \"very proud moment\" to become the Women's Super League's all-time appearance record holder.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T15:18:43.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "f4800237dee4"
-    },
-    {
-      "id": "4c98c87a75d1",
-      "topic": "sports",
-      "title": "Referee accidentally fractures college football player's leg",
-      "snippet": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T15:17:04.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "4c98c87a75d1"
-    },
-    {
-      "id": "192465635f46",
-      "topic": "sports",
-      "title": "Russo spares Arsenal blushes but latest setback increases pressure on Slegers",
-      "snippet": "Arsenal salvage late 1-1 draw at home against Aston Villa Chasity Grant fired visitors ahead after 25 minutes One shot, on target and in the back of the net, was all it took for Aston Villa to reopen the wound that…",
-      "url": "https://www.theguardian.com/football/2026/nov/01/wsl-roundup-arsenal-aston-villa-alessia-russo-renee-slegers",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T15:08:26.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "192465635f46"
-    },
-    {
-      "id": "b87be7b12829",
-      "topic": "sports",
-      "title": "Dart reacts to her first WTA title after 'incredible week'",
-      "snippet": "Speaking to BBC Sport, Harriet Dart says it's been an \"incredible week\" after coming through qualifying to win the Guangzhou Open, the first WTA Tour singles title of her career.",
-      "url": "https://www.bbc.co.uk/sport/tennis/videos/cqj9kgr8kzvyo",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T15:01:34.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "51b491c8585b"
-    },
-    {
-      "id": "744b3c145f8c",
-      "topic": "science",
-      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-      "snippet": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday…",
-      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-      "sourceId": "guardian-science",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T15:00:14.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "744b3c145f8c"
-    },
-    {
-      "id": "17050f9c5403",
-      "topic": "sports",
-      "title": "WTT Feeder Chennai: Manav wins maiden international crown; Sutirtha finishes runner-up",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/wtt-feeder-chennai-manav-wins-maiden-international-crown-sutirtha-finishes-runner-up/article71652503.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T14:58:22.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "17050f9c5403"
-    },
-    {
-      "id": "98a70db486de",
-      "topic": "sports",
-      "title": "Ranji Trophy 2026-27: Hyderabad and Chhattisgarh arrive after contrasting starts",
-      "snippet": "While the former starts with two wins before a draw in the last match, the latter snatches victory after a stalemate and a defeat to begin its season; the spin duos of Thyagarajann-Aniketh and Dharmendrasinh-Ajay will…",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-hyderabad-vs-chhattisgarh-match-preview-gymkhana-2026/article71652921.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T14:57:43.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "98a70db486de"
-    },
-    {
       "id": "ace769bd15a8",
       "topic": "economics",
       "title": "GST mop-up surges 23% to second-highest level of ₹2.31 lakh crore in October on festive demand boost",
@@ -1065,62 +1877,6 @@
       "firstSeen": "2026-11-01T12:38:58.008Z",
       "singleSource": true,
       "clusterId": "ace769bd15a8"
-    },
-    {
-      "id": "0aa93bceb36d",
-      "topic": "geopolitics",
-      "title": "France opens attempted murder probe after protest attack",
-      "snippet": "Paris prosecutors have opened an attempted murder investigation after a Molotov attack on police. France reported 779 arrests during nationwide protests and Halloween night, fewer than on previous weekends.",
-      "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
-      "sourceId": "dw-all",
-      "publisher": "Deutsche Welle",
-      "country": "DE",
-      "published": "2026-11-01T14:50:00.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "0aa93bceb36d"
-    },
-    {
-      "id": "f880a2c6feb8",
-      "topic": "sports",
-      "title": "Ranji Trophy: Punjab starts favourite against a desperate Andhra",
-      "snippet": "The home team is sitting pretty with 12 points from three matches while the southern side has managed just three from as many home games",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-punjab-starts-favourite-against-a-desperate-andhra/article71653557.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T14:47:22.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "f880a2c6feb8"
-    },
-    {
-      "id": "0731f5016b2b",
-      "topic": "geopolitics",
-      "title": "German ministers pledge tough action after rioters damage stores in Frankfurt",
-      "snippet": "Frankfurt became the hot spot for ⁠violent protests after tens of thousands of demonstrators took to the streets of dozens of German cities during the day to demand better education ‌and lower living costs",
-      "url": "https://www.thehindu.com/news/international/german-ministers-pledge-tough-action-after-rioters-damage-stores-in-frankfurt/article71653397.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T14:32:26.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "0731f5016b2b"
-    },
-    {
-      "id": "397b43e7c1f0",
-      "topic": "geopolitics",
-      "title": "Somali pirates seize Iranian fishing vessel, raising fears of attacks on cargo ships",
-      "snippet": "The Azini was hijacked on October 29 between the coastal towns of Bandar Bayla and Hafun in northeastern Somalia, a maritime security officer with the Puntland Maritime Police Force said",
-      "url": "https://www.thehindu.com/news/international/somali-pirates-seize-iranian-fishing-vessel-raising-fears-of-attacks-on-cargo-ships/article71653298.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T14:31:15.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "397b43e7c1f0"
     },
     {
       "id": "8147f1d0c844",
@@ -1137,34 +1893,6 @@
       "clusterId": "8147f1d0c844"
     },
     {
-      "id": "3f7976659195",
-      "topic": "geopolitics",
-      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-      "snippet": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T14:26:43.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "3f7976659195"
-    },
-    {
-      "id": "695c7f86ab15",
-      "topic": "sports",
-      "title": "Gifted athlete whose wit and smile left lasting impression - Mageean obituary",
-      "snippet": "The class and grace with which Ciara Mageean carried herself on and off the athletics track leaves a lasting impression, writes BBC Sport NI's Nigel Ringland.",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmvg7dwzd45vo",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T14:22:43.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "695c7f86ab15"
-    },
-    {
       "id": "0dbdb4d18fa6",
       "topic": "economics",
       "title": "FPIs pull out ₹34,843 crore from Indian equities in October, but turn net buyers end of the month",
@@ -1177,104 +1905,6 @@
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
       "clusterId": "0dbdb4d18fa6"
-    },
-    {
-      "id": "1b670449cdab",
-      "topic": "geopolitics",
-      "title": "Israel election: When will government be formed, who will lead it?",
-      "snippet": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T14:16:14.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "1b670449cdab"
-    },
-    {
-      "id": "66dec5411c9f",
-      "topic": "sports",
-      "title": "Hemp strikes back as Manchester City edge out London City Lionesses in thriller",
-      "snippet": "Goals from Khadija Shaw and Lauren Hemp helped Manchester City to escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a statement performance from the home team, despite…",
-      "url": "https://www.theguardian.com/football/2026/nov/01/london-city-lionesses-manchester-city-wsl-match-report",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T14:13:29.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "66dec5411c9f"
-    },
-    {
-      "id": "eaa80bfc3e2e",
-      "topic": "geopolitics",
-      "title": "Ukraine: Russian attacks leave tens of thousands without power",
-      "snippet": "Volodymyr Zelenskyy says Russia struck energy infrastructure in at least four regions overnight. Meanwhile, a Melania Trump-brokered ceasefire for the Kherson region is set to end on Sunday evening. DW has more.",
-      "url": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
-      "sourceId": "dw-all",
-      "publisher": "Deutsche Welle",
-      "country": "DE",
-      "published": "2026-11-01T14:13:00.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "eaa80bfc3e2e"
-    },
-    {
-      "id": "076cff7c5270",
-      "topic": "sports",
-      "title": "Rating how the Welsh clubs have started the season",
-      "snippet": "Cardiff, Dragons, Ospreys and Scarlets finish their first blocks of the season in the 2026-27 United Rugby Championship.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqjn8x0dx7zo",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T14:11:12.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "076cff7c5270"
-    },
-    {
-      "id": "7e689c79d362",
-      "topic": "sports",
-      "title": "One person killed in shooting outside Magic City Classic football game in Alabama",
-      "snippet": "Eight injured in shooting outside Legion Field Annual game draws huge crowds to Birmingham One person was killed and eight others were wounded in a mass shooting outside Legion Field after the annual Magic City Classic…",
-      "url": "https://www.theguardian.com/sport/2026/nov/01/one-person-killed-in-shooting-outside-magic-city-classic-football-game-in-alabama",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T14:10:57.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "7e689c79d362"
-    },
-    {
-      "id": "4dfe46575c0a",
-      "topic": "geopolitics",
-      "title": "Home values fall for seventh consecutive month as interest rates dent demand",
-      "snippet": "Centre of downturn shifts away from Sydney and Melbourne, but after such strong growth most homeowners still sit on sizeable gains Get our breaking news email , free app or daily news podcast Australian home values…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T14:00:18.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "4dfe46575c0a"
-    },
-    {
-      "id": "9935bf6d6498",
-      "topic": "geopolitics",
-      "title": "Former NSW Liberal leads overhaul of One Nation candidate selection process",
-      "snippet": "Exclusive: Mark Jones, once on track for one of the Liberal party’s most powerful roles, is now instrumental in One Nation’s expansion Get our daily political email , free app or daily news podcast In 2023, a young and…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T14:00:15.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "9935bf6d6498"
     },
     {
       "id": "2afa4aea418f",
@@ -1291,160 +1921,6 @@
       "clusterId": "2afa4aea418f"
     },
     {
-      "id": "d09e41a41cee",
-      "topic": "geopolitics",
-      "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-      "snippet": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern…",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T14:00:13.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "d09e41a41cee"
-    },
-    {
-      "id": "4bbec8ee7665",
-      "topic": "sports",
-      "title": "The plan England's rugby league bosses hope avoids repeat of World Cup pain",
-      "snippet": "After England exit the Men's and Women's Rugby League World Cups at the group stage, the RFL announces plans designed to prevent a repeat.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y439xp22n7o",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T13:56:16.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "4bbec8ee7665"
-    },
-    {
-      "id": "1e25fb9671ec",
-      "topic": "sports",
-      "title": "Yamaha will not travel to Qatar for MotoGP race",
-      "snippet": "Yamaha withdraw from the Qatar MotoGP race - could there be implications for Formula 1, with two races currently scheduled in the Middle East to end the season?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm98z2966128o",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T13:51:53.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "1e25fb9671ec"
-    },
-    {
-      "id": "2029fa2952d9",
-      "topic": "sports",
-      "title": "Ranji Trophy: Bengal will strive to maintain winning run in its first match at the Eden",
-      "snippet": "The table-topper, which has 18 points following three victories, starts favourite against second-placed Maharashtra in a crucial Group-C encounter",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-bengal-will-strive-to-maintain-winning-run-in-its-first-match-at-the-eden/article71653044.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:51:07.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "2029fa2952d9"
-    },
-    {
-      "id": "b348db330ea4",
-      "topic": "sports",
-      "title": "Ranji Trophy: Karnataka hopes to ride momentum; Assam looks for home comfort",
-      "snippet": "The former is fresh off an innings win over Tripura while the latter will need to punch above its weight; veteran Mayank has to pull his weight for the southern side",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-karnataka-hopes-to-ride-momentum-assam-looks-for-home-comfort/article71653173.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:43:30.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "b348db330ea4"
-    },
-    {
-      "id": "faa2e7ca8f01",
-      "topic": "geopolitics",
-      "title": "US midterms live: Democrat Stevens endorses el-Sayed’s rival in Senate race",
-      "snippet": "All 435 seats in the House of Representatives and 35 of the Senate’s 100 seats are being contested on Tuesday.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T13:42:25.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "faa2e7ca8f01"
-    },
-    {
-      "id": "757cd58d019b",
-      "topic": "geopolitics",
-      "title": "S. Jaishankar meets Russian, Polish, South Korean counterparts; discusses Ukraine, West Asia",
-      "snippet": "The External Affairs Minister also met Polish Deputy Prime Minister and Foreign Minister Radoslaw Sikorski",
-      "url": "https://www.thehindu.com/news/international/s-jaishankar-meets-russian-polish-south-korean-counterparts-discusses-ukraine-west-asia/article71653057.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:36:28.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "757cd58d019b"
-    },
-    {
-      "id": "6c91130e4f8d",
-      "topic": "geopolitics",
-      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-      "snippet": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T13:36:16.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "6c91130e4f8d"
-    },
-    {
-      "id": "f85e887065aa",
-      "topic": "geopolitics",
-      "title": "More than 50 million votes cast in US midterm elections: What does it mean?",
-      "snippet": "A record number of early votes is cast as both parties campaign before Tuesday's polls.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/more-than-50-million-votes-cast-in-us-midterm-elections-what-does-it-mean",
-      "sourceId": "aljazeera-news",
-      "publisher": "Al Jazeera",
-      "country": "QA",
-      "published": "2026-11-01T13:32:59.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "f85e887065aa"
-    },
-    {
-      "id": "271d14e939e0",
-      "topic": "geopolitics",
-      "title": "India's flight disruptions to Saudi Arabia continue amid security concerns",
-      "snippet": "The flight disruptions have continued amid attacks on civilian and critical infrastructure in Saudi Arabia, including airports",
-      "url": "https://www.thehindu.com/news/national/indias-flight-disruptions-to-saudi-arabia-continue-amid-security-concerns/article71653038.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:30:57.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "271d14e939e0"
-    },
-    {
-      "id": "e9604d4559e4",
-      "topic": "sports",
-      "title": "Delhi won’t host India-SL ODI, sand-based outfield to be ready for IPL",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/cricket/delhi-wont-host-india-sl-odi-arun-jaitley-stadium-sand-based-outfield-ipl/article71653040.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:27:55.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "e9604d4559e4"
-    },
-    {
       "id": "7af7e0d040df",
       "topic": "economics",
       "title": "Domestic PV dispatches cross five-lakh units mark in October on strong festive demand",
@@ -1457,48 +1933,6 @@
       "firstSeen": "2026-11-01T18:32:50.346Z",
       "singleSource": true,
       "clusterId": "7af7e0d040df"
-    },
-    {
-      "id": "6b759cd0e1fe",
-      "topic": "geopolitics",
-      "title": "Six Indian tourists stranded in Nepal, rescue efforts under way",
-      "snippet": "The Indian tourists had ventured into the area despite warnings from security personnel and the Nepali guide accompanying them, says an official",
-      "url": "https://www.thehindu.com/news/national/indian-tourists-stranded-in-nepal-rescue-efforts/article71652398.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:21:00.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "6b759cd0e1fe"
-    },
-    {
-      "id": "ce9230061d6d",
-      "topic": "sports",
-      "title": "Ranji Trophy 2026-27: Bubbling Tamil Nadu travels north to meet stuttering Chandigarh",
-      "snippet": "The visitor is coming on the back of two victories — over Uttarakhand and Railways — at home; the host has just one point from three matches and lies seventh in Group D; expect runs to flow at the Sector-16 Stadium",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-tamil-nadu-chandigarh-preview/article71652947.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:18:56.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "ce9230061d6d"
-    },
-    {
-      "id": "d6313a2cd5b7",
-      "topic": "geopolitics",
-      "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-      "snippet": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
-      "sourceId": "npr-world",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-11-01T13:15:28.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "d6313a2cd5b7"
     },
     {
       "id": "ebf152df9eed",
@@ -1515,34 +1949,6 @@
       "clusterId": "ebf152df9eed"
     },
     {
-      "id": "4b78021b1b56",
-      "topic": "sports",
-      "title": "Saxena eager to make the most of limited opportunities",
-      "snippet": "Mhatre’s injury and Jaiswal’s India call-up have opened the door for the left-hander’s return to the Mumbai Ranji squad",
-      "url": "https://www.thehindu.com/sport/cricket/saxena-eager-to-make-the-most-of-opportunities/article71652976.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:10:16.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "4b78021b1b56"
-    },
-    {
-      "id": "81da13d78f73",
-      "topic": "sports",
-      "title": "Weather may have a say as WTA Chennai Open set to begin for one last time",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/tennis/weather-may-have-a-say-as-wta-chennai-open-set-to-begin-for-one-last-time/article71652941.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:06:45.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "81da13d78f73"
-    },
-    {
       "id": "54b50944debb",
       "topic": "technology",
       "title": "Explained | What is the Gaia space mission and what has it revealed about the Milky Way?",
@@ -1557,90 +1963,6 @@
       "clusterId": "54b50944debb"
     },
     {
-      "id": "5dcf35bab8c9",
-      "topic": "geopolitics",
-      "title": "Iranian negotiators in Doha to continue talks to end the U.S.-Iran war, official says",
-      "snippet": "The talks come amid concerns that the conflict ‌could escalate again after the November 3 U.S. midterm elections",
-      "url": "https://www.thehindu.com/news/international/iranian-negotiators-in-doha-to-continue-talks-to-end-the-us-iran-war-official-says/article71652891.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T13:00:52.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "5dcf35bab8c9"
-    },
-    {
-      "id": "5176e08ffdee",
-      "topic": "geopolitics",
-      "title": "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
-      "snippet": "Kazakhstan is struggling to deal with the legacy of the Soviet dictatorship. Some 85 years ago, Stalin deported hundreds of thousands of people: Some 400,000 ethnic Germans living in the USSR were sent to Kazakhstan.",
-      "url": "https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-rdf",
-      "sourceId": "dw-all",
-      "publisher": "Deutsche Welle",
-      "country": "DE",
-      "published": "2026-11-01T13:00:00.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "5176e08ffdee"
-    },
-    {
-      "id": "665e79070f37",
-      "topic": "sports",
-      "title": "Heimirich pleases",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/races/heimirich-pleases/article71652905.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:55:54.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "665e79070f37"
-    },
-    {
-      "id": "801d56380c69",
-      "topic": "sports",
-      "title": "India reigns supreme in Commonwealth kabaddi championship",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/india-reigns-supreme-in-commonwealth-kabaddi-championship/article71652831.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:52:41.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "801d56380c69"
-    },
-    {
-      "id": "bbbc042c75dc",
-      "topic": "sports",
-      "title": "Ranji Trophy 2026-27: Gujarat will look for a form reversal against Kerala in familiar environs",
-      "snippet": "The host will be eager for a victory after conceding the first-innings lead against Delhi and Maharashtra away from home; the visitor is hurting from a 287-run loss to Bengal, and needs to set things right soon",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-gujarat-kerala-preview/article71652718.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:51:40.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "bbbc042c75dc"
-    },
-    {
-      "id": "c722697d6a2f",
-      "topic": "geopolitics",
-      "title": "French school blockades to restart from Monday: student group",
-      "snippet": "France's protest movement against soaring prices emerged from weeks of demonstrations by high school students protesting deteriorating learning conditions and inequality",
-      "url": "https://www.thehindu.com/news/international/french-school-blockades-to-restart-from-monday-student-group/article71652824.ece",
-      "sourceId": "thehindu-international",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:49:23.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "c722697d6a2f"
-    },
-    {
       "id": "ce66bcf2a350",
       "topic": "economics",
       "title": "Commercial LPG prices hiked ₹10/cylinder; ATF hiked ₹1.37/litre",
@@ -1653,34 +1975,6 @@
       "firstSeen": "2026-11-01T06:46:07.054Z",
       "singleSource": true,
       "clusterId": "ce66bcf2a350"
-    },
-    {
-      "id": "7491ca98a706",
-      "topic": "sports",
-      "title": "Ranji Trophy: Delhi, Services desperate for outright win on fresh pitch",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-delhi-services-desperate-for-outright-win-on-fresh-pitch/article71652605.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:41:08.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "7491ca98a706"
-    },
-    {
-      "id": "3d816f0b4d6a",
-      "topic": "sports",
-      "title": "Fynbos, Nashville and Rules impress",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/races/fynbos-nashville-and-rules-impress/article71652841.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:40:38.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "3d816f0b4d6a"
     },
     {
       "id": "610c9f63b694",
@@ -1709,146 +2003,6 @@
       "firstSeen": "2026-11-01T12:38:58.008Z",
       "singleSource": true,
       "clusterId": "8e1ef3e1533c"
-    },
-    {
-      "id": "809e2a45af34",
-      "topic": "sports",
-      "title": "Ciara Mageean, European 1500m gold medallist with Ireland, dies aged 34",
-      "snippet": "Mageean won 2024 European 1500m title in Rome Athlete described as ‘an inspiration to so many’ The Irish middle-distance runner Ciara Mageean, who won European gold and competed at two Olympic Games, has died aged 34…",
-      "url": "https://www.theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T12:31:01.000Z",
-      "firstSeen": "2026-11-01T18:32:50.346Z",
-      "singleSource": true,
-      "clusterId": "809e2a45af34"
-    },
-    {
-      "id": "3735df0e59d5",
-      "topic": "sports",
-      "title": "Services players seek exposure to State-based T20 leagues",
-      "snippet": "",
-      "url": "https://www.thehindu.com/sport/cricket/services-players-seek-exposure-to-state-based-t20-leagues/article71652779.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:30:45.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "3735df0e59d5"
-    },
-    {
-      "id": "48d21dcf2442",
-      "topic": "sports",
-      "title": "Wales thrashed as Australia score record 21 tries",
-      "snippet": "Reigning champions Australia rack up the biggest score in international history as they hammered Wales 124-6 in the Rugby League World Cup.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/crp3gx9vz510o",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T12:27:34.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "48d21dcf2442"
-    },
-    {
-      "id": "b84f4351503d",
-      "topic": "geopolitics",
-      "title": "Germany news: Gen Z group calls for new protests",
-      "snippet": "The group behind German demonstrations this weekend has called for more protests to keep pressure on the government to act. Meanwhile, the IG Metall union has begun warning strikes after pay talks collapse. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
-      "sourceId": "dw-all",
-      "publisher": "Deutsche Welle",
-      "country": "DE",
-      "published": "2026-11-01T12:26:00.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "b84f4351503d"
-    },
-    {
-      "id": "728cf33da2f9",
-      "topic": "geopolitics",
-      "title": "Biological weapons: The weaponization of disease",
-      "snippet": "Biological weapons are prohibited under international law. But new developments in biotech and AI are a cause for concern. DW addresses some of the most important questions about their history, risks, and control.",
-      "url": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-all-1573-rdf",
-      "sourceId": "dw-all",
-      "publisher": "Deutsche Welle",
-      "country": "DE",
-      "published": "2026-11-01T12:25:00.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "728cf33da2f9"
-    },
-    {
-      "id": "b68425806bf7",
-      "topic": "sports",
-      "title": "Ranji Trophy 2026: A buzzing Mumbai takes on floundering Railways at ‘home’",
-      "snippet": "Cricket: The 42-time champ, technically the away side, is riding of crest of three big wins, while the ‘host’, with just two points in its kitty, will look to turn things around",
-      "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-a-buzzing-mumbai-takes-on-floundering-railways-at-home/article71652769.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:22:02.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "b68425806bf7"
-    },
-    {
-      "id": "7bf79c5d1117",
-      "topic": "geopolitics",
-      "title": "New public spending category PDEL is a welcome and could have big impact | Heather Stewart",
-      "snippet": "The Preventative Departmental Expenditure Limit will be money ringfenced in the budget for preventive policies John Healey’s debut budget was far from a blockbuster, but it may come to be remembered for the birth of a…",
-      "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T12:12:07.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "7bf79c5d1117"
-    },
-    {
-      "id": "afa42491bb92",
-      "topic": "sports",
-      "title": "IND vs NZ fifth T20I: Seifert, Phillips carry NZ to seven-wicket win; series ends 3-2 in visitors’ favour",
-      "snippet": "Milne dismissed Abhishek Sharma and Sanju Samson in successive overs during the powerplay before Kishan and Iyer consolidated India’s innings with an entertaining 93-run stand off just 43 balls",
-      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-final-and-fifth-t20-international-in-hamilton/article71652282.ece",
-      "sourceId": "thehindu-sport",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-11-01T12:06:42.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "afa42491bb92"
-    },
-    {
-      "id": "9880f5fcc1e7",
-      "topic": "geopolitics",
-      "title": "High street ‘slot farms’ could avoid budget tax rise through bingo hall loophole",
-      "snippet": "Hundreds of adult gaming centres in England have bingo licences that still qualify them for discounted business rates Hundreds of high street “ slot farms ” could continue claiming a discount on their business rates…",
-      "url": "https://www.theguardian.com/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T12:04:59.000Z",
-      "firstSeen": "2026-11-01T06:46:07.054Z",
-      "singleSource": true,
-      "clusterId": "9880f5fcc1e7"
-    },
-    {
-      "id": "77ca6db901d9",
-      "topic": "sports",
-      "title": "Carrick to stay in charge for Roma game; Challinor in at Sheffield Wednesday; Liverpool v Arsenal buildup – as it happened",
-      "snippet": "Buildup to Sunday’s action, with a bumper WSL fixture list before Liverpool host Arsenal in the Premier League It is not going well for Oliver Glasner at Nottingham Forest, to say the least. “For me, I go home and have…",
-      "url": "https://www.theguardian.com/football/live/2026/nov/01/carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buildup-wsl-and-more-matchday-live",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T12:03:06.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "77ca6db901d9"
     },
     {
       "id": "325bf9aefa6f",
@@ -1907,34 +2061,6 @@
       "clusterId": "b1f994c77c83"
     },
     {
-      "id": "49fc6e1403de",
-      "topic": "geopolitics",
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "snippet": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the…",
-      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T11:54:23.000Z",
-      "firstSeen": "2026-11-01T06:46:07.054Z",
-      "singleSource": true,
-      "clusterId": "49fc6e1403de"
-    },
-    {
-      "id": "7ca02a533095",
-      "topic": "geopolitics",
-      "title": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
-      "snippet": "Chancellor John Healey fails to guarantee equalisation with adult wage will happen in timeframe set out in manifesto Labour looks less likely to meet its manifesto pledge to equalise the minimum wage for younger…",
-      "url": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
-      "sourceId": "guardian-world",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T11:52:55.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "7ca02a533095"
-    },
-    {
       "id": "9a7e6bd06c0a",
       "topic": "music",
       "title": "Sir Tom Jones mentors Welsh singer to victory on The Voice UK",
@@ -1947,48 +2073,6 @@
       "firstSeen": "2026-11-01T12:38:58.008Z",
       "singleSource": true,
       "clusterId": "9a7e6bd06c0a"
-    },
-    {
-      "id": "cc6e95f02334",
-      "topic": "sports",
-      "title": "Premier League today: How to watch, TV channels & live stream",
-      "snippet": "How will Liverpool and Arsenal fare today? Here is what to know, including kick-off time, TV channels and live stream options Five straight victories, including Wednesday’s Carabao Cup penalty shootout win over…",
-      "url": "https://www.theguardian.com/football/2026/nov/01/how-to-watch-premier-league-liverpool-arsenal",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T11:30:10.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "cc6e95f02334"
-    },
-    {
-      "id": "d88d72dcf3cc",
-      "topic": "sports",
-      "title": "Britain's Dart wins first WTA title of her career",
-      "snippet": "Britain's Harriet Dart caps the best week of her career by beating fast-rising Austrian teenager Lilli Tagger in three sets in Guangzhou.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o",
-      "sourceId": "bbc-sport",
-      "publisher": "BBC Sport",
-      "country": "GB",
-      "published": "2026-11-01T11:27:04.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "51b491c8585b"
-    },
-    {
-      "id": "51b491c8585b",
-      "topic": "sports",
-      "title": "GB’s Harriet Dart wins maiden WTA title at 30 with Guangzhou Open triumph",
-      "snippet": "Briton beats 18-year-old Austrian Lilli Tagger 4-6, 6-3, 6-4 Dart, a qualifier, was competing in her first WTA final Britain’s Harriet Dart won her first WTA title after coming from a set down to beat Lilli Tagger in…",
-      "url": "https://www.theguardian.com/sport/2026/nov/01/harriet-dart-wins-maiden-wta-title-guangzhou-open-tennis-lilli-tagger",
-      "sourceId": "guardian-sport",
-      "publisher": "The Guardian",
-      "country": "GB",
-      "published": "2026-11-01T11:20:14.000Z",
-      "firstSeen": "2026-11-01T12:38:58.008Z",
-      "singleSource": true,
-      "clusterId": "51b491c8585b"
     },
     {
       "id": "9985695a9242",
@@ -2117,6 +2201,20 @@
       "clusterId": "22fc29958fd4"
     },
     {
+      "id": "776178a08816",
+      "topic": "music",
+      "title": "From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks",
+      "snippet": "Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exyj525d9o",
+      "sourceId": "bbc-entertainment",
+      "publisher": "BBC News",
+      "country": "GB",
+      "published": "2026-11-01T08:09:26.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "776178a08816"
+    },
+    {
       "id": "d5388254314c",
       "topic": "economics",
       "title": "Energy bills help 'doesn't go far enough'",
@@ -2213,6 +2311,20 @@
       "firstSeen": "2026-11-01T06:46:07.054Z",
       "singleSource": true,
       "clusterId": "e9b9721352cb"
+    },
+    {
+      "id": "f0bd35200420",
+      "topic": "economics",
+      "title": "No-cost EMI: a loan that is portrayed as free",
+      "snippet": "A ₹60,000 phone, 6 easy instalments of ₹10,000, no interest. It feels as if the shopkeeper has done you a favour. He has not. Nobody lends money for free and nobody sells at a loss. Someone pays.",
+      "url": "https://www.thehindu.com/business/Economy/no-cost-emi-a-loan-that-is-portrayed-as-free/article71651979.ece",
+      "sourceId": "thehindu-business",
+      "publisher": "The Hindu",
+      "country": "IN",
+      "published": "2026-11-01T01:58:45.000Z",
+      "firstSeen": "2026-11-02T00:47:39.182Z",
+      "singleSource": true,
+      "clusterId": "f0bd35200420"
     },
     {
       "id": "bb2770895061",
@@ -3965,48 +4077,6 @@
       "clusterId": "903f9afc1bf7"
     },
     {
-      "id": "b975f2c8f0a5",
-      "topic": "economics",
-      "title": "Streeting denies 'kicking can down the road' in defence spending row",
-      "snippet": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o",
-      "sourceId": "bbc-business",
-      "publisher": "BBC News",
-      "country": "GB",
-      "published": "2026-10-30T11:23:38.000Z",
-      "firstSeen": "2026-10-30T12:41:06.200Z",
-      "singleSource": true,
-      "clusterId": "b975f2c8f0a5"
-    },
-    {
-      "id": "81d99025f3eb",
-      "topic": "economics",
-      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
-      "snippet": "It wasn't immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said its teams are \"working around the…",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-30T11:21:56.000Z",
-      "firstSeen": "2026-10-30T12:41:06.200Z",
-      "singleSource": true,
-      "clusterId": "81d99025f3eb"
-    },
-    {
-      "id": "b6084b803dfe",
-      "topic": "economics",
-      "title": "The two most interesting risks to Anthropic",
-      "snippet": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
-      "sourceId": "npr-business",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-30T11:00:00.000Z",
-      "firstSeen": "2026-10-30T12:41:06.200Z",
-      "singleSource": true,
-      "clusterId": "b6084b803dfe"
-    },
-    {
       "id": "8554070296fb",
       "topic": "technology",
       "title": "After 50 years of playing video games, I’m finally starring in one",
@@ -4119,34 +4189,6 @@
       "clusterId": "e55a478b87fe"
     },
     {
-      "id": "150aaed2a754",
-      "topic": "technology",
-      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
-      "snippet": "Most kids say they use chatbots for help with homework and when they're stressed, lonely, or anxious. And how they use chatbots is tied to their mental health.",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
-      "sourceId": "npr-technology",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-30T09:00:00.000Z",
-      "firstSeen": "2026-10-30T12:41:06.200Z",
-      "singleSource": true,
-      "clusterId": "150aaed2a754"
-    },
-    {
-      "id": "c1f607db3fb9",
-      "topic": "technology",
-      "title": "Websites pretending to be local news are boosting Democratic candidates",
-      "snippet": "The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT's responses but Google's products avoid promoting them.",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
-      "sourceId": "npr-technology",
-      "publisher": "NPR",
-      "country": "US",
-      "published": "2026-10-30T09:00:00.000Z",
-      "firstSeen": "2026-10-30T12:41:06.200Z",
-      "singleSource": true,
-      "clusterId": "c1f607db3fb9"
-    },
-    {
       "id": "70fad4e85dfc",
       "topic": "music",
       "title": "Kali Malone: Burning Song review – drone composer wields Bach’s organ to breathtaking effect",
@@ -4215,20 +4257,6 @@
       "firstSeen": "2026-10-30T12:41:06.200Z",
       "singleSource": true,
       "clusterId": "fca39479d8ef"
-    },
-    {
-      "id": "c5d38022ee04",
-      "topic": "technology",
-      "title": "Would you watch a 90-minute-long video on Instagram?",
-      "snippet": "Instagram’s latest foray into horizontal, long-form videos will transform how social media scrollers, content creators, and even streaming competitors operate",
-      "url": "https://www.thehindu.com/sci-tech/technology/would-you-watch-a-90-minute-long-video-on-instagram/article71644021.ece",
-      "sourceId": "thehindu-scitech",
-      "publisher": "The Hindu",
-      "country": "IN",
-      "published": "2026-10-30T07:25:08.000Z",
-      "firstSeen": "2026-10-30T12:41:06.200Z",
-      "singleSource": true,
-      "clusterId": "c5d38022ee04"
     },
     {
       "id": "3d6062b30ccd",
@@ -6445,18 +6473,522 @@
   ],
   "clusters": [
     {
-      "id": "d4774acae0f4",
-      "topic": "sports",
-      "leadId": "d4774acae0f4",
+      "id": "ff254917f921",
+      "topic": "technology",
+      "leadId": "ff254917f921",
       "storyIds": [
-        "d4774acae0f4"
+        "ff254917f921"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:43:35.000Z"
+    },
+    {
+      "id": "3ecbd769a2f2",
+      "topic": "geopolitics",
+      "leadId": "3ecbd769a2f2",
+      "storyIds": [
+        "3ecbd769a2f2"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:29:16.000Z"
+    },
+    {
+      "id": "96d758e187be",
+      "topic": "sports",
+      "leadId": "96d758e187be",
+      "storyIds": [
+        "96d758e187be"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:28:28.000Z"
+    },
+    {
+      "id": "7f4eb073c474",
+      "topic": "geopolitics",
+      "leadId": "7f4eb073c474",
+      "storyIds": [
+        "7f4eb073c474"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:25:12.000Z"
+    },
+    {
+      "id": "9cf6a04116c0",
+      "topic": "geopolitics",
+      "leadId": "9cf6a04116c0",
+      "storyIds": [
+        "9cf6a04116c0"
       ],
       "publishers": [
         "The Guardian"
       ],
       "independentSources": 1,
       "multiSource": false,
-      "latest": "2026-11-01T18:26:27.000Z"
+      "latest": "2026-11-02T00:16:25.000Z"
+    },
+    {
+      "id": "3979c4821f57",
+      "topic": "geopolitics",
+      "leadId": "3979c4821f57",
+      "storyIds": [
+        "3979c4821f57",
+        "3f14586dbdfe",
+        "10a5c4d6eaf4"
+      ],
+      "publishers": [
+        "The Guardian",
+        "Al Jazeera",
+        "BBC News"
+      ],
+      "independentSources": 3,
+      "multiSource": true,
+      "latest": "2026-11-02T00:15:30.000Z"
+    },
+    {
+      "id": "987480a1c2ea",
+      "topic": "geopolitics",
+      "leadId": "987480a1c2ea",
+      "storyIds": [
+        "987480a1c2ea",
+        "d2ca0678ae9c",
+        "0fd5d085d5d0"
+      ],
+      "publishers": [
+        "Al Jazeera",
+        "BBC News",
+        "The Guardian"
+      ],
+      "independentSources": 3,
+      "multiSource": true,
+      "latest": "2026-11-02T00:12:17.000Z"
+    },
+    {
+      "id": "6781be645360",
+      "topic": "sports",
+      "leadId": "6781be645360",
+      "storyIds": [
+        "6781be645360",
+        "adbbd7b5f9c3"
+      ],
+      "publishers": [
+        "BBC Sport",
+        "The Guardian"
+      ],
+      "independentSources": 2,
+      "multiSource": true,
+      "latest": "2026-11-02T00:09:54.000Z"
+    },
+    {
+      "id": "4f8bcd16a1e3",
+      "topic": "sports",
+      "leadId": "4f8bcd16a1e3",
+      "storyIds": [
+        "4f8bcd16a1e3"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:00:21.000Z"
+    },
+    {
+      "id": "e357fd1c5c59",
+      "topic": "sports",
+      "leadId": "e357fd1c5c59",
+      "storyIds": [
+        "e357fd1c5c59"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:00:03.000Z"
+    },
+    {
+      "id": "37c9fe5d7b4c",
+      "topic": "geopolitics",
+      "leadId": "37c9fe5d7b4c",
+      "storyIds": [
+        "37c9fe5d7b4c"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "cee7de943194",
+      "topic": "sports",
+      "leadId": "cee7de943194",
+      "storyIds": [
+        "cee7de943194"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:46:31.000Z"
+    },
+    {
+      "id": "9bbc0ed4b174",
+      "topic": "economics",
+      "leadId": "9bbc0ed4b174",
+      "storyIds": [
+        "9bbc0ed4b174"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:34:49.000Z"
+    },
+    {
+      "id": "6b751f0e86c3",
+      "topic": "sports",
+      "leadId": "6b751f0e86c3",
+      "storyIds": [
+        "6b751f0e86c3"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:28:56.000Z"
+    },
+    {
+      "id": "c773c7d1dd8f",
+      "topic": "geopolitics",
+      "leadId": "c773c7d1dd8f",
+      "storyIds": [
+        "c773c7d1dd8f"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:24:56.000Z"
+    },
+    {
+      "id": "6b81d8bf5c64",
+      "topic": "sports",
+      "leadId": "6b81d8bf5c64",
+      "storyIds": [
+        "6b81d8bf5c64",
+        "0689de853e94",
+        "a1abb2b44c22",
+        "a43bd939362b"
+      ],
+      "publishers": [
+        "The Guardian",
+        "BBC Sport"
+      ],
+      "independentSources": 2,
+      "multiSource": true,
+      "latest": "2026-11-01T23:20:54.000Z"
+    },
+    {
+      "id": "c0ea4d934af5",
+      "topic": "geopolitics",
+      "leadId": "c0ea4d934af5",
+      "storyIds": [
+        "c0ea4d934af5"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:19:51.000Z"
+    },
+    {
+      "id": "9040291292d8",
+      "topic": "geopolitics",
+      "leadId": "9040291292d8",
+      "storyIds": [
+        "9040291292d8"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:05:05.000Z"
+    },
+    {
+      "id": "c1b9318605bd",
+      "topic": "sports",
+      "leadId": "c1b9318605bd",
+      "storyIds": [
+        "c1b9318605bd"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T23:00:21.000Z"
+    },
+    {
+      "id": "4de671ae787f",
+      "topic": "sports",
+      "leadId": "4de671ae787f",
+      "storyIds": [
+        "4de671ae787f"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:50:05.000Z"
+    },
+    {
+      "id": "f9c4e9ef3bb7",
+      "topic": "sports",
+      "leadId": "f9c4e9ef3bb7",
+      "storyIds": [
+        "f9c4e9ef3bb7"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:45:57.000Z"
+    },
+    {
+      "id": "1d0bfb3219ee",
+      "topic": "geopolitics",
+      "leadId": "1d0bfb3219ee",
+      "storyIds": [
+        "1d0bfb3219ee"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:38:24.000Z"
+    },
+    {
+      "id": "fab922e7ae8a",
+      "topic": "geopolitics",
+      "leadId": "fab922e7ae8a",
+      "storyIds": [
+        "fab922e7ae8a"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:37:36.000Z"
+    },
+    {
+      "id": "a76a7ae4bdcb",
+      "topic": "sports",
+      "leadId": "a76a7ae4bdcb",
+      "storyIds": [
+        "a76a7ae4bdcb"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:36:26.000Z"
+    },
+    {
+      "id": "5a6c099c71d7",
+      "topic": "geopolitics",
+      "leadId": "5a6c099c71d7",
+      "storyIds": [
+        "5a6c099c71d7"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:32:54.000Z"
+    },
+    {
+      "id": "a5b3e5ea6f9c",
+      "topic": "geopolitics",
+      "leadId": "a5b3e5ea6f9c",
+      "storyIds": [
+        "a5b3e5ea6f9c"
+      ],
+      "publishers": [
+        "NPR"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:30:00.000Z"
+    },
+    {
+      "id": "2e3df1535eab",
+      "topic": "geopolitics",
+      "leadId": "2e3df1535eab",
+      "storyIds": [
+        "2e3df1535eab"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:26:11.000Z"
+    },
+    {
+      "id": "757a23938f9b",
+      "topic": "economics",
+      "leadId": "757a23938f9b",
+      "storyIds": [
+        "757a23938f9b"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:25:51.000Z"
+    },
+    {
+      "id": "410a761ffc9f",
+      "topic": "sports",
+      "leadId": "410a761ffc9f",
+      "storyIds": [
+        "410a761ffc9f"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:25:21.000Z"
+    },
+    {
+      "id": "4fc8a5a21005",
+      "topic": "sports",
+      "leadId": "4fc8a5a21005",
+      "storyIds": [
+        "4fc8a5a21005"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:25:01.000Z"
+    },
+    {
+      "id": "5c1a12d656f9",
+      "topic": "geopolitics",
+      "leadId": "5c1a12d656f9",
+      "storyIds": [
+        "5c1a12d656f9"
+      ],
+      "publishers": [
+        "NPR"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:19:13.000Z"
+    },
+    {
+      "id": "d03f8787d866",
+      "topic": "sports",
+      "leadId": "d03f8787d866",
+      "storyIds": [
+        "d03f8787d866"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:16:58.000Z"
+    },
+    {
+      "id": "66c9f884c135",
+      "topic": "geopolitics",
+      "leadId": "66c9f884c135",
+      "storyIds": [
+        "66c9f884c135"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:15:14.000Z"
+    },
+    {
+      "id": "29fce830b0da",
+      "topic": "sports",
+      "leadId": "29fce830b0da",
+      "storyIds": [
+        "29fce830b0da"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T22:05:12.000Z"
+    },
+    {
+      "id": "a9d752ca0de3",
+      "topic": "sports",
+      "leadId": "a9d752ca0de3",
+      "storyIds": [
+        "a9d752ca0de3"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:56:26.000Z"
+    },
+    {
+      "id": "2f8dc69a3315",
+      "topic": "geopolitics",
+      "leadId": "2f8dc69a3315",
+      "storyIds": [
+        "2f8dc69a3315"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:55:01.000Z"
     },
     {
       "id": "d02452dc0c5a",
@@ -6470,7 +7002,531 @@
       ],
       "independentSources": 1,
       "multiSource": false,
-      "latest": "2026-11-01T18:25:15.000Z"
+      "latest": "2026-11-01T21:45:52.000Z"
+    },
+    {
+      "id": "bb752061b792",
+      "topic": "sports",
+      "leadId": "bb752061b792",
+      "storyIds": [
+        "bb752061b792"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:39:00.000Z"
+    },
+    {
+      "id": "a4c5d62f582a",
+      "topic": "sports",
+      "leadId": "a4c5d62f582a",
+      "storyIds": [
+        "a4c5d62f582a",
+        "9263396a5370"
+      ],
+      "publishers": [
+        "BBC Sport",
+        "The Guardian"
+      ],
+      "independentSources": 2,
+      "multiSource": true,
+      "latest": "2026-11-01T21:25:01.000Z"
+    },
+    {
+      "id": "ce8d70ecdc1c",
+      "topic": "geopolitics",
+      "leadId": "ce8d70ecdc1c",
+      "storyIds": [
+        "ce8d70ecdc1c"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:13:23.000Z"
+    },
+    {
+      "id": "0e51132cb989",
+      "topic": "sports",
+      "leadId": "0e51132cb989",
+      "storyIds": [
+        "0e51132cb989"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:06:07.000Z"
+    },
+    {
+      "id": "03edeb165633",
+      "topic": "geopolitics",
+      "leadId": "03edeb165633",
+      "storyIds": [
+        "03edeb165633"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:02:54.000Z"
+    },
+    {
+      "id": "ecdababcbe78",
+      "topic": "geopolitics",
+      "leadId": "ecdababcbe78",
+      "storyIds": [
+        "ecdababcbe78"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:01:33.000Z"
+    },
+    {
+      "id": "731a9e9b1c86",
+      "topic": "geopolitics",
+      "leadId": "731a9e9b1c86",
+      "storyIds": [
+        "731a9e9b1c86"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:00:52.000Z"
+    },
+    {
+      "id": "e0a740304524",
+      "topic": "geopolitics",
+      "leadId": "e0a740304524",
+      "storyIds": [
+        "e0a740304524"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T21:00:21.000Z"
+    },
+    {
+      "id": "87ee26c329f8",
+      "topic": "geopolitics",
+      "leadId": "87ee26c329f8",
+      "storyIds": [
+        "87ee26c329f8"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:47:45.000Z"
+    },
+    {
+      "id": "e389b87312f6",
+      "topic": "geopolitics",
+      "leadId": "e389b87312f6",
+      "storyIds": [
+        "e389b87312f6"
+      ],
+      "publishers": [
+        "Al Jazeera"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:43:33.000Z"
+    },
+    {
+      "id": "1a3939e319fc",
+      "topic": "geopolitics",
+      "leadId": "1a3939e319fc",
+      "storyIds": [
+        "1a3939e319fc"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:35:58.000Z"
+    },
+    {
+      "id": "9877efd2ac35",
+      "topic": "geopolitics",
+      "leadId": "9877efd2ac35",
+      "storyIds": [
+        "9877efd2ac35"
+      ],
+      "publishers": [
+        "Deutsche Welle"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:34:00.000Z"
+    },
+    {
+      "id": "b74764ff2069",
+      "topic": "sports",
+      "leadId": "b74764ff2069",
+      "storyIds": [
+        "b74764ff2069"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:32:44.000Z"
+    },
+    {
+      "id": "47d9e3d202db",
+      "topic": "geopolitics",
+      "leadId": "47d9e3d202db",
+      "storyIds": [
+        "47d9e3d202db"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:20:59.000Z"
+    },
+    {
+      "id": "192465635f46",
+      "topic": "sports",
+      "leadId": "192465635f46",
+      "storyIds": [
+        "192465635f46"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:17:13.000Z"
+    },
+    {
+      "id": "2e47ed997f1d",
+      "topic": "sports",
+      "leadId": "2e47ed997f1d",
+      "storyIds": [
+        "2e47ed997f1d"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:16:46.000Z"
+    },
+    {
+      "id": "46b169fbe247",
+      "topic": "sports",
+      "leadId": "46b169fbe247",
+      "storyIds": [
+        "46b169fbe247",
+        "04b6dfd70c7a"
+      ],
+      "publishers": [
+        "The Guardian",
+        "BBC Sport"
+      ],
+      "independentSources": 2,
+      "multiSource": true,
+      "latest": "2026-11-01T20:15:52.000Z"
+    },
+    {
+      "id": "9ed84b0560f2",
+      "topic": "geopolitics",
+      "leadId": "9ed84b0560f2",
+      "storyIds": [
+        "9ed84b0560f2",
+        "17e1160779e4"
+      ],
+      "publishers": [
+        "Al Jazeera",
+        "The Guardian"
+      ],
+      "independentSources": 2,
+      "multiSource": true,
+      "latest": "2026-11-01T20:10:27.000Z"
+    },
+    {
+      "id": "d09e41a41cee",
+      "topic": "geopolitics",
+      "leadId": "d09e41a41cee",
+      "storyIds": [
+        "d09e41a41cee"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:02:57.000Z"
+    },
+    {
+      "id": "906edfc4e6ff",
+      "topic": "sports",
+      "leadId": "906edfc4e6ff",
+      "storyIds": [
+        "906edfc4e6ff"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T20:00:18.000Z"
+    },
+    {
+      "id": "d073721bf6d6",
+      "topic": "geopolitics",
+      "leadId": "d073721bf6d6",
+      "storyIds": [
+        "d073721bf6d6"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:47:35.000Z"
+    },
+    {
+      "id": "899e27e6510c",
+      "topic": "sports",
+      "leadId": "899e27e6510c",
+      "storyIds": [
+        "899e27e6510c"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:37:44.000Z"
+    },
+    {
+      "id": "744b3c145f8c",
+      "topic": "science",
+      "leadId": "744b3c145f8c",
+      "storyIds": [
+        "744b3c145f8c"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:36:46.000Z"
+    },
+    {
+      "id": "5e433ae385ca",
+      "topic": "geopolitics",
+      "leadId": "5e433ae385ca",
+      "storyIds": [
+        "5e433ae385ca"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:26:40.000Z"
+    },
+    {
+      "id": "72a136600c6b",
+      "topic": "technology",
+      "leadId": "72a136600c6b",
+      "storyIds": [
+        "72a136600c6b"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:23:27.000Z"
+    },
+    {
+      "id": "b014aa3c83ae",
+      "topic": "sports",
+      "leadId": "b014aa3c83ae",
+      "storyIds": [
+        "b014aa3c83ae"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:21:49.000Z"
+    },
+    {
+      "id": "73b04d67ffd4",
+      "topic": "geopolitics",
+      "leadId": "73b04d67ffd4",
+      "storyIds": [
+        "73b04d67ffd4"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T19:16:50.000Z"
+    },
+    {
+      "id": "d4774acae0f4",
+      "topic": "sports",
+      "leadId": "d4774acae0f4",
+      "storyIds": [
+        "d4774acae0f4"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:55:34.000Z"
+    },
+    {
+      "id": "bf9ba445487d",
+      "topic": "geopolitics",
+      "leadId": "bf9ba445487d",
+      "storyIds": [
+        "bf9ba445487d"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:51:56.000Z"
+    },
+    {
+      "id": "ff99f26be71e",
+      "topic": "sports",
+      "leadId": "ff99f26be71e",
+      "storyIds": [
+        "ff99f26be71e"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:45:49.000Z"
+    },
+    {
+      "id": "9f0f4249f18e",
+      "topic": "sports",
+      "leadId": "9f0f4249f18e",
+      "storyIds": [
+        "9f0f4249f18e"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:44:48.000Z"
+    },
+    {
+      "id": "a3a3e22c9037",
+      "topic": "sports",
+      "leadId": "a3a3e22c9037",
+      "storyIds": [
+        "a3a3e22c9037"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:39:16.000Z"
+    },
+    {
+      "id": "7c2c62af1c2f",
+      "topic": "sports",
+      "leadId": "7c2c62af1c2f",
+      "storyIds": [
+        "7c2c62af1c2f"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:38:45.000Z"
+    },
+    {
+      "id": "1a3b606141f2",
+      "topic": "sports",
+      "leadId": "1a3b606141f2",
+      "storyIds": [
+        "1a3b606141f2"
+      ],
+      "publishers": [
+        "BBC Sport"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:37:48.000Z"
+    },
+    {
+      "id": "2d93e6ebb9ae",
+      "topic": "technology",
+      "leadId": "2d93e6ebb9ae",
+      "storyIds": [
+        "2d93e6ebb9ae"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:37:42.000Z"
+    },
+    {
+      "id": "d9677428705a",
+      "topic": "sports",
+      "leadId": "d9677428705a",
+      "storyIds": [
+        "d9677428705a"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:36:30.000Z"
+    },
+    {
+      "id": "dbcc28af996e",
+      "topic": "music",
+      "leadId": "dbcc28af996e",
+      "storyIds": [
+        "dbcc28af996e"
+      ],
+      "publishers": [
+        "The Guardian"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T18:31:22.000Z"
     },
     {
       "id": "7c09d77620f5",
@@ -6487,48 +7543,18 @@
       "latest": "2026-11-01T18:23:57.000Z"
     },
     {
-      "id": "46b169fbe247",
-      "topic": "sports",
-      "leadId": "46b169fbe247",
-      "storyIds": [
-        "46b169fbe247"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T18:20:53.000Z"
-    },
-    {
-      "id": "f85e887065aa",
+      "id": "7bd63480035b",
       "topic": "geopolitics",
-      "leadId": "f85e887065aa",
+      "leadId": "7bd63480035b",
       "storyIds": [
-        "f85e887065aa",
         "7bd63480035b"
       ],
       "publishers": [
-        "Al Jazeera",
-        "The Guardian"
-      ],
-      "independentSources": 2,
-      "multiSource": true,
-      "latest": "2026-11-01T18:19:54.000Z"
-    },
-    {
-      "id": "17e1160779e4",
-      "topic": "geopolitics",
-      "leadId": "17e1160779e4",
-      "storyIds": [
-        "17e1160779e4"
-      ],
-      "publishers": [
         "The Guardian"
       ],
       "independentSources": 1,
       "multiSource": false,
-      "latest": "2026-11-01T18:12:23.000Z"
+      "latest": "2026-11-01T18:19:54.000Z"
     },
     {
       "id": "5d7c6d24c4d7",
@@ -6575,20 +7601,6 @@
       "latest": "2026-11-01T17:56:47.000Z"
     },
     {
-      "id": "cee7de943194",
-      "topic": "sports",
-      "leadId": "cee7de943194",
-      "storyIds": [
-        "cee7de943194"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T17:55:23.000Z"
-    },
-    {
       "id": "b3284a084191",
       "topic": "sports",
       "leadId": "b3284a084191",
@@ -6631,20 +7643,6 @@
       "latest": "2026-11-01T17:49:28.000Z"
     },
     {
-      "id": "0fd5d085d5d0",
-      "topic": "geopolitics",
-      "leadId": "0fd5d085d5d0",
-      "storyIds": [
-        "0fd5d085d5d0"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T17:47:43.000Z"
-    },
-    {
       "id": "dd60a5a8fd49",
       "topic": "geopolitics",
       "leadId": "dd60a5a8fd49",
@@ -6671,20 +7669,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T17:46:59.000Z"
-    },
-    {
-      "id": "a3a3e22c9037",
-      "topic": "sports",
-      "leadId": "a3a3e22c9037",
-      "storyIds": [
-        "a3a3e22c9037"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T17:41:19.000Z"
     },
     {
       "id": "99829d91da8c",
@@ -6799,19 +7783,17 @@
       "latest": "2026-11-01T17:20:18.000Z"
     },
     {
-      "id": "727b9ed9a8f3",
+      "id": "107181c4345d",
       "topic": "geopolitics",
-      "leadId": "727b9ed9a8f3",
+      "leadId": "107181c4345d",
       "storyIds": [
-        "727b9ed9a8f3",
         "107181c4345d"
       ],
       "publishers": [
-        "Al Jazeera",
         "Deutsche Welle"
       ],
-      "independentSources": 2,
-      "multiSource": true,
+      "independentSources": 1,
+      "multiSource": false,
       "latest": "2026-11-01T17:16:00.000Z"
     },
     {
@@ -6827,20 +7809,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T17:11:00.000Z"
-    },
-    {
-      "id": "2d93e6ebb9ae",
-      "topic": "geopolitics",
-      "leadId": "2d93e6ebb9ae",
-      "storyIds": [
-        "2d93e6ebb9ae"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T17:10:52.000Z"
     },
     {
       "id": "5a7c18124eff",
@@ -7067,20 +8035,6 @@
       "latest": "2026-11-01T16:27:43.000Z"
     },
     {
-      "id": "3979c4821f57",
-      "topic": "geopolitics",
-      "leadId": "3979c4821f57",
-      "storyIds": [
-        "3979c4821f57"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T16:24:38.000Z"
-    },
-    {
       "id": "67caca99c669",
       "topic": "geopolitics",
       "leadId": "67caca99c669",
@@ -7137,48 +8091,6 @@
       "latest": "2026-11-01T16:17:37.000Z"
     },
     {
-      "id": "70dfebaa9cbe",
-      "topic": "geopolitics",
-      "leadId": "70dfebaa9cbe",
-      "storyIds": [
-        "70dfebaa9cbe"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T16:14:56.000Z"
-    },
-    {
-      "id": "a307a79ddab0",
-      "topic": "geopolitics",
-      "leadId": "a307a79ddab0",
-      "storyIds": [
-        "a307a79ddab0"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T16:12:34.000Z"
-    },
-    {
-      "id": "35cecf2e130b",
-      "topic": "geopolitics",
-      "leadId": "35cecf2e130b",
-      "storyIds": [
-        "35cecf2e130b"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T16:11:50.000Z"
-    },
-    {
       "id": "6000f8a145b3",
       "topic": "sports",
       "leadId": "6000f8a145b3",
@@ -7221,20 +8133,6 @@
       "latest": "2026-11-01T16:05:40.000Z"
     },
     {
-      "id": "b08bce3a4ef0",
-      "topic": "geopolitics",
-      "leadId": "b08bce3a4ef0",
-      "storyIds": [
-        "b08bce3a4ef0"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T16:04:22.000Z"
-    },
-    {
       "id": "6177ac7a2a16",
       "topic": "sports",
       "leadId": "6177ac7a2a16",
@@ -7263,20 +8161,6 @@
       "latest": "2026-11-01T15:55:46.000Z"
     },
     {
-      "id": "d503618e7e49",
-      "topic": "geopolitics",
-      "leadId": "d503618e7e49",
-      "storyIds": [
-        "d503618e7e49"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:50:19.000Z"
-    },
-    {
       "id": "744d8e49b403",
       "topic": "sports",
       "leadId": "744d8e49b403",
@@ -7289,34 +8173,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T15:49:47.000Z"
-    },
-    {
-      "id": "f086fc4a525c",
-      "topic": "geopolitics",
-      "leadId": "f086fc4a525c",
-      "storyIds": [
-        "f086fc4a525c"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:44:28.000Z"
-    },
-    {
-      "id": "eed06119b58b",
-      "topic": "geopolitics",
-      "leadId": "eed06119b58b",
-      "storyIds": [
-        "eed06119b58b"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:43:40.000Z"
     },
     {
       "id": "6f4261b0ba56",
@@ -7333,149 +8189,6 @@
       "latest": "2026-11-01T15:39:52.000Z"
     },
     {
-      "id": "0aca4184c3fb",
-      "topic": "sports",
-      "leadId": "0aca4184c3fb",
-      "storyIds": [
-        "0aca4184c3fb"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:33:50.000Z"
-    },
-    {
-      "id": "f32c8cb6bfd2",
-      "topic": "sports",
-      "leadId": "f32c8cb6bfd2",
-      "storyIds": [
-        "f32c8cb6bfd2"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:31:11.000Z"
-    },
-    {
-      "id": "88fbdfc578d8",
-      "topic": "geopolitics",
-      "leadId": "88fbdfc578d8",
-      "storyIds": [
-        "88fbdfc578d8"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:24:08.000Z"
-    },
-    {
-      "id": "f4800237dee4",
-      "topic": "sports",
-      "leadId": "f4800237dee4",
-      "storyIds": [
-        "f4800237dee4"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:18:43.000Z"
-    },
-    {
-      "id": "4c98c87a75d1",
-      "topic": "sports",
-      "leadId": "4c98c87a75d1",
-      "storyIds": [
-        "4c98c87a75d1"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:17:04.000Z"
-    },
-    {
-      "id": "192465635f46",
-      "topic": "sports",
-      "leadId": "192465635f46",
-      "storyIds": [
-        "192465635f46"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:08:26.000Z"
-    },
-    {
-      "id": "51b491c8585b",
-      "topic": "sports",
-      "leadId": "51b491c8585b",
-      "storyIds": [
-        "51b491c8585b",
-        "d88d72dcf3cc",
-        "b87be7b12829"
-      ],
-      "publishers": [
-        "The Guardian",
-        "BBC Sport"
-      ],
-      "independentSources": 2,
-      "multiSource": true,
-      "latest": "2026-11-01T15:01:34.000Z"
-    },
-    {
-      "id": "744b3c145f8c",
-      "topic": "science",
-      "leadId": "744b3c145f8c",
-      "storyIds": [
-        "744b3c145f8c"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T15:00:14.000Z"
-    },
-    {
-      "id": "17050f9c5403",
-      "topic": "sports",
-      "leadId": "17050f9c5403",
-      "storyIds": [
-        "17050f9c5403"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:58:22.000Z"
-    },
-    {
-      "id": "98a70db486de",
-      "topic": "sports",
-      "leadId": "98a70db486de",
-      "storyIds": [
-        "98a70db486de"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:57:43.000Z"
-    },
-    {
       "id": "ace769bd15a8",
       "topic": "economics",
       "leadId": "ace769bd15a8",
@@ -7488,62 +8201,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T14:52:50.000Z"
-    },
-    {
-      "id": "0aa93bceb36d",
-      "topic": "geopolitics",
-      "leadId": "0aa93bceb36d",
-      "storyIds": [
-        "0aa93bceb36d"
-      ],
-      "publishers": [
-        "Deutsche Welle"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:50:00.000Z"
-    },
-    {
-      "id": "f880a2c6feb8",
-      "topic": "sports",
-      "leadId": "f880a2c6feb8",
-      "storyIds": [
-        "f880a2c6feb8"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:47:22.000Z"
-    },
-    {
-      "id": "0731f5016b2b",
-      "topic": "geopolitics",
-      "leadId": "0731f5016b2b",
-      "storyIds": [
-        "0731f5016b2b"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:32:26.000Z"
-    },
-    {
-      "id": "397b43e7c1f0",
-      "topic": "geopolitics",
-      "leadId": "397b43e7c1f0",
-      "storyIds": [
-        "397b43e7c1f0"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:31:15.000Z"
     },
     {
       "id": "8147f1d0c844",
@@ -7560,34 +8217,6 @@
       "latest": "2026-11-01T14:29:58.000Z"
     },
     {
-      "id": "3f7976659195",
-      "topic": "geopolitics",
-      "leadId": "3f7976659195",
-      "storyIds": [
-        "3f7976659195"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:26:43.000Z"
-    },
-    {
-      "id": "695c7f86ab15",
-      "topic": "sports",
-      "leadId": "695c7f86ab15",
-      "storyIds": [
-        "695c7f86ab15"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:22:43.000Z"
-    },
-    {
       "id": "0dbdb4d18fa6",
       "topic": "economics",
       "leadId": "0dbdb4d18fa6",
@@ -7600,104 +8229,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T14:21:56.000Z"
-    },
-    {
-      "id": "1b670449cdab",
-      "topic": "geopolitics",
-      "leadId": "1b670449cdab",
-      "storyIds": [
-        "1b670449cdab"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:16:14.000Z"
-    },
-    {
-      "id": "66dec5411c9f",
-      "topic": "sports",
-      "leadId": "66dec5411c9f",
-      "storyIds": [
-        "66dec5411c9f"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:13:29.000Z"
-    },
-    {
-      "id": "eaa80bfc3e2e",
-      "topic": "geopolitics",
-      "leadId": "eaa80bfc3e2e",
-      "storyIds": [
-        "eaa80bfc3e2e"
-      ],
-      "publishers": [
-        "Deutsche Welle"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:13:00.000Z"
-    },
-    {
-      "id": "076cff7c5270",
-      "topic": "sports",
-      "leadId": "076cff7c5270",
-      "storyIds": [
-        "076cff7c5270"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:11:12.000Z"
-    },
-    {
-      "id": "7e689c79d362",
-      "topic": "sports",
-      "leadId": "7e689c79d362",
-      "storyIds": [
-        "7e689c79d362"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:10:57.000Z"
-    },
-    {
-      "id": "4dfe46575c0a",
-      "topic": "geopolitics",
-      "leadId": "4dfe46575c0a",
-      "storyIds": [
-        "4dfe46575c0a"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:00:18.000Z"
-    },
-    {
-      "id": "9935bf6d6498",
-      "topic": "geopolitics",
-      "leadId": "9935bf6d6498",
-      "storyIds": [
-        "9935bf6d6498"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:00:15.000Z"
     },
     {
       "id": "2afa4aea418f",
@@ -7714,146 +8245,6 @@
       "latest": "2026-11-01T14:00:13.000Z"
     },
     {
-      "id": "d09e41a41cee",
-      "topic": "geopolitics",
-      "leadId": "d09e41a41cee",
-      "storyIds": [
-        "d09e41a41cee"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T14:00:13.000Z"
-    },
-    {
-      "id": "4bbec8ee7665",
-      "topic": "sports",
-      "leadId": "4bbec8ee7665",
-      "storyIds": [
-        "4bbec8ee7665"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:56:16.000Z"
-    },
-    {
-      "id": "1e25fb9671ec",
-      "topic": "sports",
-      "leadId": "1e25fb9671ec",
-      "storyIds": [
-        "1e25fb9671ec"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:51:53.000Z"
-    },
-    {
-      "id": "2029fa2952d9",
-      "topic": "sports",
-      "leadId": "2029fa2952d9",
-      "storyIds": [
-        "2029fa2952d9"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:51:07.000Z"
-    },
-    {
-      "id": "b348db330ea4",
-      "topic": "sports",
-      "leadId": "b348db330ea4",
-      "storyIds": [
-        "b348db330ea4"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:43:30.000Z"
-    },
-    {
-      "id": "faa2e7ca8f01",
-      "topic": "geopolitics",
-      "leadId": "faa2e7ca8f01",
-      "storyIds": [
-        "faa2e7ca8f01"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:42:25.000Z"
-    },
-    {
-      "id": "757cd58d019b",
-      "topic": "geopolitics",
-      "leadId": "757cd58d019b",
-      "storyIds": [
-        "757cd58d019b"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:36:28.000Z"
-    },
-    {
-      "id": "6c91130e4f8d",
-      "topic": "geopolitics",
-      "leadId": "6c91130e4f8d",
-      "storyIds": [
-        "6c91130e4f8d"
-      ],
-      "publishers": [
-        "Al Jazeera"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:36:16.000Z"
-    },
-    {
-      "id": "271d14e939e0",
-      "topic": "geopolitics",
-      "leadId": "271d14e939e0",
-      "storyIds": [
-        "271d14e939e0"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:30:57.000Z"
-    },
-    {
-      "id": "e9604d4559e4",
-      "topic": "sports",
-      "leadId": "e9604d4559e4",
-      "storyIds": [
-        "e9604d4559e4"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:27:55.000Z"
-    },
-    {
       "id": "7af7e0d040df",
       "topic": "economics",
       "leadId": "7af7e0d040df",
@@ -7866,48 +8257,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T13:23:05.000Z"
-    },
-    {
-      "id": "6b759cd0e1fe",
-      "topic": "geopolitics",
-      "leadId": "6b759cd0e1fe",
-      "storyIds": [
-        "6b759cd0e1fe"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:21:00.000Z"
-    },
-    {
-      "id": "ce9230061d6d",
-      "topic": "sports",
-      "leadId": "ce9230061d6d",
-      "storyIds": [
-        "ce9230061d6d"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:18:56.000Z"
-    },
-    {
-      "id": "d6313a2cd5b7",
-      "topic": "geopolitics",
-      "leadId": "d6313a2cd5b7",
-      "storyIds": [
-        "d6313a2cd5b7"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:15:28.000Z"
     },
     {
       "id": "ebf152df9eed",
@@ -7924,34 +8273,6 @@
       "latest": "2026-11-01T13:11:37.000Z"
     },
     {
-      "id": "4b78021b1b56",
-      "topic": "sports",
-      "leadId": "4b78021b1b56",
-      "storyIds": [
-        "4b78021b1b56"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:10:16.000Z"
-    },
-    {
-      "id": "81da13d78f73",
-      "topic": "sports",
-      "leadId": "81da13d78f73",
-      "storyIds": [
-        "81da13d78f73"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:06:45.000Z"
-    },
-    {
       "id": "54b50944debb",
       "topic": "technology",
       "leadId": "54b50944debb",
@@ -7966,90 +8287,6 @@
       "latest": "2026-11-01T13:03:46.000Z"
     },
     {
-      "id": "5dcf35bab8c9",
-      "topic": "geopolitics",
-      "leadId": "5dcf35bab8c9",
-      "storyIds": [
-        "5dcf35bab8c9"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:00:52.000Z"
-    },
-    {
-      "id": "5176e08ffdee",
-      "topic": "geopolitics",
-      "leadId": "5176e08ffdee",
-      "storyIds": [
-        "5176e08ffdee"
-      ],
-      "publishers": [
-        "Deutsche Welle"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T13:00:00.000Z"
-    },
-    {
-      "id": "665e79070f37",
-      "topic": "sports",
-      "leadId": "665e79070f37",
-      "storyIds": [
-        "665e79070f37"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:55:54.000Z"
-    },
-    {
-      "id": "801d56380c69",
-      "topic": "sports",
-      "leadId": "801d56380c69",
-      "storyIds": [
-        "801d56380c69"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:52:41.000Z"
-    },
-    {
-      "id": "bbbc042c75dc",
-      "topic": "sports",
-      "leadId": "bbbc042c75dc",
-      "storyIds": [
-        "bbbc042c75dc"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:51:40.000Z"
-    },
-    {
-      "id": "c722697d6a2f",
-      "topic": "geopolitics",
-      "leadId": "c722697d6a2f",
-      "storyIds": [
-        "c722697d6a2f"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:49:23.000Z"
-    },
-    {
       "id": "ce66bcf2a350",
       "topic": "economics",
       "leadId": "ce66bcf2a350",
@@ -8062,34 +8299,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T12:47:36.000Z"
-    },
-    {
-      "id": "7491ca98a706",
-      "topic": "sports",
-      "leadId": "7491ca98a706",
-      "storyIds": [
-        "7491ca98a706"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:41:08.000Z"
-    },
-    {
-      "id": "3d816f0b4d6a",
-      "topic": "sports",
-      "leadId": "3d816f0b4d6a",
-      "storyIds": [
-        "3d816f0b4d6a"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:40:38.000Z"
     },
     {
       "id": "610c9f63b694",
@@ -8118,146 +8327,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T12:33:55.000Z"
-    },
-    {
-      "id": "809e2a45af34",
-      "topic": "sports",
-      "leadId": "809e2a45af34",
-      "storyIds": [
-        "809e2a45af34"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:31:01.000Z"
-    },
-    {
-      "id": "3735df0e59d5",
-      "topic": "sports",
-      "leadId": "3735df0e59d5",
-      "storyIds": [
-        "3735df0e59d5"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:30:45.000Z"
-    },
-    {
-      "id": "48d21dcf2442",
-      "topic": "sports",
-      "leadId": "48d21dcf2442",
-      "storyIds": [
-        "48d21dcf2442"
-      ],
-      "publishers": [
-        "BBC Sport"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:27:34.000Z"
-    },
-    {
-      "id": "b84f4351503d",
-      "topic": "geopolitics",
-      "leadId": "b84f4351503d",
-      "storyIds": [
-        "b84f4351503d"
-      ],
-      "publishers": [
-        "Deutsche Welle"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:26:00.000Z"
-    },
-    {
-      "id": "728cf33da2f9",
-      "topic": "geopolitics",
-      "leadId": "728cf33da2f9",
-      "storyIds": [
-        "728cf33da2f9"
-      ],
-      "publishers": [
-        "Deutsche Welle"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:25:00.000Z"
-    },
-    {
-      "id": "b68425806bf7",
-      "topic": "sports",
-      "leadId": "b68425806bf7",
-      "storyIds": [
-        "b68425806bf7"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:22:02.000Z"
-    },
-    {
-      "id": "7bf79c5d1117",
-      "topic": "geopolitics",
-      "leadId": "7bf79c5d1117",
-      "storyIds": [
-        "7bf79c5d1117"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:12:07.000Z"
-    },
-    {
-      "id": "afa42491bb92",
-      "topic": "sports",
-      "leadId": "afa42491bb92",
-      "storyIds": [
-        "afa42491bb92"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:06:42.000Z"
-    },
-    {
-      "id": "9880f5fcc1e7",
-      "topic": "geopolitics",
-      "leadId": "9880f5fcc1e7",
-      "storyIds": [
-        "9880f5fcc1e7"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:04:59.000Z"
-    },
-    {
-      "id": "77ca6db901d9",
-      "topic": "sports",
-      "leadId": "77ca6db901d9",
-      "storyIds": [
-        "77ca6db901d9"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T12:03:06.000Z"
     },
     {
       "id": "325bf9aefa6f",
@@ -8316,34 +8385,6 @@
       "latest": "2026-11-01T11:57:48.000Z"
     },
     {
-      "id": "49fc6e1403de",
-      "topic": "geopolitics",
-      "leadId": "49fc6e1403de",
-      "storyIds": [
-        "49fc6e1403de"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T11:54:23.000Z"
-    },
-    {
-      "id": "7ca02a533095",
-      "topic": "geopolitics",
-      "leadId": "7ca02a533095",
-      "storyIds": [
-        "7ca02a533095"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T11:52:55.000Z"
-    },
-    {
       "id": "9a7e6bd06c0a",
       "topic": "music",
       "leadId": "9a7e6bd06c0a",
@@ -8356,20 +8397,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T11:46:17.000Z"
-    },
-    {
-      "id": "cc6e95f02334",
-      "topic": "sports",
-      "leadId": "cc6e95f02334",
-      "storyIds": [
-        "cc6e95f02334"
-      ],
-      "publishers": [
-        "The Guardian"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-11-01T11:30:10.000Z"
     },
     {
       "id": "9985695a9242",
@@ -8499,6 +8526,20 @@
       "latest": "2026-11-01T08:20:19.000Z"
     },
     {
+      "id": "776178a08816",
+      "topic": "music",
+      "leadId": "776178a08816",
+      "storyIds": [
+        "776178a08816"
+      ],
+      "publishers": [
+        "BBC News"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T08:09:26.000Z"
+    },
+    {
       "id": "d5388254314c",
       "topic": "economics",
       "leadId": "d5388254314c",
@@ -8581,6 +8622,20 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-11-01T05:32:39.000Z"
+    },
+    {
+      "id": "f0bd35200420",
+      "topic": "economics",
+      "leadId": "f0bd35200420",
+      "storyIds": [
+        "f0bd35200420"
+      ],
+      "publishers": [
+        "The Hindu"
+      ],
+      "independentSources": 1,
+      "multiSource": false,
+      "latest": "2026-11-01T01:58:45.000Z"
     },
     {
       "id": "bb2770895061",
@@ -10231,48 +10286,6 @@
       "latest": "2026-10-30T11:27:25.000Z"
     },
     {
-      "id": "b975f2c8f0a5",
-      "topic": "economics",
-      "leadId": "b975f2c8f0a5",
-      "storyIds": [
-        "b975f2c8f0a5"
-      ],
-      "publishers": [
-        "BBC News"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-30T11:23:38.000Z"
-    },
-    {
-      "id": "81d99025f3eb",
-      "topic": "economics",
-      "leadId": "81d99025f3eb",
-      "storyIds": [
-        "81d99025f3eb"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-30T11:21:56.000Z"
-    },
-    {
-      "id": "b6084b803dfe",
-      "topic": "economics",
-      "leadId": "b6084b803dfe",
-      "storyIds": [
-        "b6084b803dfe"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-30T11:00:00.000Z"
-    },
-    {
       "id": "8554070296fb",
       "topic": "technology",
       "leadId": "8554070296fb",
@@ -10385,34 +10398,6 @@
       "latest": "2026-10-30T09:00:50.000Z"
     },
     {
-      "id": "150aaed2a754",
-      "topic": "technology",
-      "leadId": "150aaed2a754",
-      "storyIds": [
-        "150aaed2a754"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "id": "c1f607db3fb9",
-      "topic": "technology",
-      "leadId": "c1f607db3fb9",
-      "storyIds": [
-        "c1f607db3fb9"
-      ],
-      "publishers": [
-        "NPR"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-30T09:00:00.000Z"
-    },
-    {
       "id": "70fad4e85dfc",
       "topic": "music",
       "leadId": "70fad4e85dfc",
@@ -10481,20 +10466,6 @@
       "independentSources": 1,
       "multiSource": false,
       "latest": "2026-10-30T07:45:00.000Z"
-    },
-    {
-      "id": "c5d38022ee04",
-      "topic": "technology",
-      "leadId": "c5d38022ee04",
-      "storyIds": [
-        "c5d38022ee04"
-      ],
-      "publishers": [
-        "The Hindu"
-      ],
-      "independentSources": 1,
-      "multiSource": false,
-      "latest": "2026-10-30T07:25:08.000Z"
     },
     {
       "id": "3d6062b30ccd",
